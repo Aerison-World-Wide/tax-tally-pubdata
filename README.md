@@ -41,3 +41,14 @@ were checked against.
 
 Everything here is public information — IRS rates, rules, and
 headlines. No client data ever enters this repo.
+
+## License
+
+The data in this repository is licensed under the GNU General
+Public License v3.0 — see `LICENSE`. (The underlying IRS rates and
+headlines are public information; the license covers the modeled
+matrix, the curation, and the collections as assembled here.)
+
+The Tax Tally code that consumes this data lives in the
+`tax-tally` repository under the Tax Tally Noncommercial Copyleft
+License v1.0.

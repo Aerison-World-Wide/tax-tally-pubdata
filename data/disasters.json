@@ -1,0 +1,978 @@
+{
+ "collection": "Federal disaster tax relief announcements, by state (IRS disaster-situations page)",
+ "retrieved": "2026-11-19",
+ "source_page": "https://www.irs.gov/newsroom/tax-relief-in-disaster-situations",
+ "resources": [
+  {
+   "label": "FAQs for disaster victims",
+   "link": "!irs.gov/businesses/small-businesses-self-employed/faqs-for-disaster-victims",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "label": "Wildfire Relief Payments and Casualty Losses FAQs",
+   "link": "!irs.gov/newsroom/wildfire-relief-payments-and-casualty-losses-frequently-asked-questions",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "label": "Around the nation (eligible localities by state)",
+   "link": "!irs.gov/newsroom/around-the-nation",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  }
+ ],
+ "entries": [
+  {
+   "code": "TX-2026-05",
+   "state": "TX",
+   "title": "IRS announces tax relief for Texans impacted by July storms, various deadlines postponed to Feb. 1, 2027",
+   "postponed_to": "2027-02-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-texans-impacted-by-july-storms-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "AL-2026-01",
+   "state": "AL",
+   "title": "IRS announces tax relief for taxpayers impacted by Hurricane Isaias in Alabama, various deadlines postponed to Feb. 4, 2027",
+   "postponed_to": "2027-02-04",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-hurricane-isaias-in-alabama-various-deadlines-postponed-to-feb-4-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "FL-2026-07",
+   "state": "FL",
+   "title": "IRS announces tax relief for taxpayers impacted by Hurricane Isaias in Florida, various deadlines postponed to Feb. 8, 2027",
+   "postponed_to": "2027-02-08",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-hurricane-isaias-in-florida-various-deadlines-postponed-to-feb-8-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "GU-2026-01",
+   "state": "GU",
+   "title": "IRS announces tax relief for taxpayers impacted by Super Typhoon Bavi in Guam, various deadlines postponed to Feb. 4, 2027",
+   "postponed_to": "2027-02-04",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-super-typhoon-bavi-in-guam-various-deadlines-postponed-to-feb-4-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "NM-2026-03",
+   "state": "NM",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms and flooding in the Pueblo of Zuni in New Mexico, various deadlines postponed to Feb. 4, 2027",
+   "postponed_to": "2027-02-04",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-and-flooding-in-the-pueblo-of-zuni-in-new-mexico-various-deadlines-postponed-to-feb-4-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "WI-2026-03",
+   "state": "WI",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms and tornadoes in Wisconsin, various deadlines postponed to Feb. 1, 2027",
+   "postponed_to": "2027-02-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-and-tornadoes-in-wisconsin-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "OH-2026-02",
+   "state": "OH",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, straight-line winds, tornadoes, flooding and landslides in Ohio, various deadlines postponed to Feb. 1, 2027",
+   "postponed_to": "2027-02-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-straight-line-winds-tornadoes-flooding-and-landslides-in-ohio-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "NE-2026-08",
+   "state": "NE",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storm in Nebraska, various deadlines postponed to January 7, 2027",
+   "postponed_to": "2027-01-07",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storm-in-nebraska-various-deadlines-postponed-to-jan-7-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "WV-2026-02",
+   "state": "WV",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms and flooding in West Virginia, various deadlines postponed to Feb. 4, 2027",
+   "postponed_to": "2027-02-04",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-and-flooding-in-west-virginia-various-deadlines-postponed-to-feb-4-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "HI-2026-03",
+   "state": "HI",
+   "title": "IRS announces tax relief for taxpayers impacted by the earthquake in Hawaii County; various deadlines postponed to Feb. 1, 2027",
+   "postponed_to": "2027-02-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-the-earthquake-in-hawaii-county-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "SD-2026-05",
+   "state": "SD",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, straight-line winds, and flooding in the Oglala Sioux Tribe, various deadlines postponed to Feb. 1, 2027",
+   "postponed_to": "2027-02-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-straight-line-winds-and-flooding-in-the-oglala-sioux-tribe-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "IN-2026-01",
+   "state": "IN",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, straight-line winds, tornadoes, and flooding in Indiana, various deadlines postponed to Feb. 1, 2027",
+   "postponed_to": "2027-02-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-straight-line-winds-tornadoes-and-flooding-in-indiana-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "WA-2026-03",
+   "state": "WA",
+   "title": "IRS announces tax relief for taxpayers impacted by wildfires in Washington, various deadlines postponed to Feb. 1, 2027",
+   "postponed_to": "2027-02-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-wildfires-in-washington-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "WA-2026-02",
+   "state": "WA",
+   "title": "IRS announces tax relief for taxpayers impacted by wildfires in Douglas County Washington, various deadlines postponed to Feb. 1, 2027",
+   "postponed_to": "2027-02-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-wildfires-in-douglas-county-washington-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "NE-2026-07",
+   "state": "NE",
+   "title": "IRS announces tax relief for taxpayers impacted by June wildfires in Nebraska, various deadlines postponed to Feb. 1, 2027",
+   "postponed_to": "2027-02-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-june-wildfires-in-nebraska-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "NE-2026-06",
+   "state": "NE",
+   "title": "IRS announces tax relief for taxpayers impacted by May wildfires in Nebraska, various deadlines postponed to Feb. 1, 2027",
+   "postponed_to": "2027-02-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-may-wildfires-in-nebraska-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "NE-2026-05",
+   "state": "NE",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms in Nebraska, various deadlines postponed to Feb. 1, 2027",
+   "postponed_to": "2027-02-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-in-nebraska-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "NE-2026-04",
+   "state": "NE",
+   "title": "IRS announces tax relief for taxpayers impacted by April wildfires in central Nebraska, various deadlines postponed to Feb. 1, 2027",
+   "postponed_to": "2027-02-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-april-wildfires-in-central-nebraska-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "NE-2026-03",
+   "state": "NE",
+   "title": "IRS announces tax relief for taxpayers impacted by March wildfires in Nebraska, various deadlines postponed to Feb. 1, 2027",
+   "postponed_to": "2027-02-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-march-wildfires-in-nebraska-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "NMI-2026-02",
+   "state": "NMI",
+   "title": "IRS announces tax relief for taxpayers impacted by Super Typhoon Bavi in the Northern Mariana Islands, various deadlines postponed to Feb. 1, 2027",
+   "postponed_to": "2027-02-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-super-typhoon-bavi-in-the-northern-mariana-islands-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "WV-2026-01",
+   "state": "WV",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, straight-line winds, tornadoes, flooding, landslides and mudslides in West Virginia, various deadlines postponed to Feb. 1, 2027",
+   "postponed_to": "2027-02-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-straight-line-winds-tornadoes-flooding-landslides-and-mudslides-in-west-virginia-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "MS-2026-03",
+   "state": "MS",
+   "title": "IRS announces tax relief for taxpayers impacted by Tropical Storm Arthur in Mississippi, various deadlines postponed to Feb. 1, 2027",
+   "postponed_to": "2027-02-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-tropical-storm-arthur-in-mississippi-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "MS-2026-02",
+   "state": "MS",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, straight-line winds, tornadoes and flooding in the State of Mississippi, various deadlines postponed to Nov. 2, 2026",
+   "postponed_to": "2026-11-02",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-straight-line-winds-tornadoes-and-flooding-in-the-state-of-mississippi-various-deadlines-postponed-to-nov-2-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "WI-2026-02",
+   "state": "WI",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, tornadoes and flooding in the State of Wisconsin, various deadlines postponed to Nov. 2, 2026",
+   "postponed_to": "2026-11-02",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-tornadoes-and-flooding-in-the-state-of-wisconsin-various-deadlines-postponed-to-nov-2-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "LA-2026-02",
+   "state": "LA",
+   "title": "IRS announces tax relief for taxpayers and businesses in Louisiana affected by Tropical Storm Arthur that began on June 17, 2026",
+   "postponed_to": null,
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-and-businesses-in-louisiana-affected-by-tropical-storm-arthur-that-began-on-june-17-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "MI-2026-02",
+   "state": "MI",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, tornadoes and flooding in the State of Michigan, various deadlines postponed to Nov. 2, 2026",
+   "postponed_to": "2026-11-02",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-tornadoes-and-flooding-in-the-state-of-michigan-various-deadlines-postponed-to-nov-2-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "MT-2026-04",
+   "state": "MT",
+   "title": "IRS announces tax relief for taxpayers in the Crow Tribe of Montana impacted by severe winter storm and straight-line winds; various deadlines postponed to Sept. 28, 2026",
+   "postponed_to": "2026-09-28",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-in-the-crow-tribe-of-montana-impacted-by-severe-winter-storm-and-straight-line-winds-various-deadlines-postponed-to-sept-28-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "MT-2026-03",
+   "state": "MT",
+   "title": "IRS announces tax relief for taxpayers impacted by severe winter storm and straight-line winds in the Fort Peck Assiniboine and Sioux Tribes; various deadlines postponed to Sept. 28, 2026",
+   "postponed_to": "2026-09-28",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-winter-storm-and-straight-line-winds-in-the-fort-peck-assiniboine-and-sioux-tribes-various-deadlines-postponed-to-sept-28-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "AZ-2026-01",
+   "state": "AZ",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms and flooding in the San Carlos Apache Tribe; various deadlines postponed to Sept. 28, 2026",
+   "postponed_to": "2026-09-28",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-and-flooding-in-the-san-carlos-apache-tribe-various-deadlines-postponed-to-sept-28-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "GA-2026-03",
+   "state": "GA",
+   "title": "IRS announces tax relief for taxpayers impacted by wildfires in Southeast Georgia; various deadlines postponed to Aug. 20",
+   "postponed_to": "2026-08-20",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-wildfires-in-southeast-georgia-various-deadlines-postponed-to-aug-20",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "NMI-2026-01",
+   "state": "NMI",
+   "title": "IRS announces tax relief for taxpayers impacted by Super Typhoon Sinlaku in the Commonwealth of the Northern Mariana Islands; various deadlines postponed to Nov. 2, 2026",
+   "postponed_to": "2026-11-02",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-super-typhoon-sinlaku-in-the-commonwealth-of-the-northern-mariana-islands-various-deadlines-postponed-to-nov-2-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "MS-2026-01",
+   "state": "MS",
+   "title": "IRS announces tax relief for Mississippi taxpayers impacted by severe winter storm; various deadlines postponed to June 8, 2026",
+   "postponed_to": "2026-06-08",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-mississippi-taxpayers-impacted-by-severe-winter-storm-various-deadlines-postponed-to-june-8-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "HI-2026-01",
+   "state": "HI",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms in the State of Hawaii; various deadlines postponed to July 8, 2026",
+   "postponed_to": "2026-07-08",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-in-the-state-of-hawaii-various-deadlines-postponed-to-july-8-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "TN-2026-01",
+   "state": "TN",
+   "title": "IRS announces tax relief for taxpayers impacted by Winter Storm Fern in Tennessee; various deadlines postponed to May 22, 2026",
+   "postponed_to": "2026-06-08",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-winter-storm-fern-in-tennessee-various-deadlines-postponed-to-may-22-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "article updated 2026-04-15: relief expanded to all 95 Tennessee counties, deadline moved from May 22 to June 8, 2026"
+  },
+  {
+   "code": "LA-2026-01",
+   "state": "LA",
+   "title": "IRS announces tax relief for taxpayers impacted by severe winter storms in the State of Louisiana; various deadlines postponed to March 31, 2026",
+   "postponed_to": "2026-03-31",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-winter-storms-in-the-state-of-louisiana-various-deadlines-postponed-to-march-31-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "MT-2026-02",
+   "state": "MT",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms and flooding in the State of Montana; various deadlines postponed to May 1, 2026",
+   "postponed_to": "2026-05-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-and-flooding-in-the-state-of-montana-various-deadlines-postponed-to-may-1-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "WA-2025-03",
+   "state": "WA",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, straight-line winds, flooding, landslides, and mudslides in the State of Washington; various deadlines postponed to May 1, 2026",
+   "postponed_to": "2026-05-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-straight-line-winds-flooding-landslides-and-mudslides-in-the-state-of-washington-various-deadlines-postponed-to-may-1-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "MN-2025-01",
+   "state": "MN",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms and straight-line winds in Leech Lake Band of Ojibwe; various deadlines postponed to Feb. 2, 2026",
+   "postponed_to": "2026-02-02",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-and-straight-line-winds-in-leech-lake-band-of-ojibwe-various-deadlines-postponed-to-feb-2-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "MO-2025-03",
+   "state": "MO",
+   "title": "IRS provides tax relief for taxpayers impacted by severe storms, straight-line winds, tornadoes, and flooding in multiple counties Missouri; various deadlines postponed to March 30, 2026",
+   "postponed_to": "2026-03-30",
+   "link": "!irs.gov/newsroom/irs-provides-tax-relief-for-taxpayers-impacted-by-severe-storms-straight-line-winds-tornadoes-and-flooding-in-multiple-counties-missouri-various-deadlines-postponed-to-march-30-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "AK-2025-04",
+   "state": "AK",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, flooding and remnants of Typhoon Halong in Alaska; various deadlines postponed to May 1, 2026",
+   "postponed_to": "2026-05-01",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-flooding-and-remnants-of-typhoon-halong-in-alaska-various-deadlines-postponed-to-may-1-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "SD-2025-01",
+   "state": "SD",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms and flooding in Sisseton-Wahpeton Oyate located in Lake Traverse Reservation; various deadlines postponed to Feb. 2, 2026",
+   "postponed_to": "2026-02-02",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-and-flooding-in-sisseton-wahpeton-oyate-located-in-lake-traverse-reservation-various-deadlines-postponed-to-feb-2-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "ND-2025-01",
+   "state": "ND",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms and flooding in Sisseton-Wahpeton Oyate of the Lake Traverse Reservation; various deadlines postponed to Feb. 2, 2026",
+   "postponed_to": "2026-02-02",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-and-flooding-in-sisseton-wahpeton-oyate-of-the-lake-traverse-reservation-various-deadlines-postponed-to-feb-2-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "IR-2025-93",
+   "state": null,
+   "title": "IRS extends relief to farmers and ranchers affected by drought in 49 states, other regions",
+   "postponed_to": null,
+   "link": "!irs.gov/newsroom/irs-extends-relief-to-farmers-and-ranchers-affected-by-drought-in-49-states-other-regions",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "WI-2025-04",
+   "state": "WI",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, straight-line winds, flooding, and mudslides in Wisconsin; various deadlines postponed to Feb 2, 2026",
+   "postponed_to": "2026-02-02",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-straight-line-winds-flooding-and-mudslides-in-wisconsin-various-deadlines-postponed-to-feb-2-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "WV-2025-04",
+   "state": "WV",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, straight-line winds, flooding, landslides, and mudslides in West Virginia; various deadlines postponed to Feb 2, 2026",
+   "postponed_to": "2026-02-02",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-straight-line-winds-flooding-landslides-and-mudslides-in-west-virginia-various-deadlines-postponed-to-feb-2-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "NM-2025-03",
+   "state": "NM",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, flooding, and landslides in New Mexico; various deadlines postponed to Feb 2, 2026",
+   "postponed_to": "2026-02-02",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-flooding-and-landslides-in-new-mexico-various-deadlines-postponed-to-feb-2-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "TX-2025-04",
+   "state": "TX",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, straight-line winds, and flooding in Texas; various deadlines postponed to Feb 2, 2026",
+   "postponed_to": "2026-02-02",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-straight-line-winds-and-flooding-in-texas-various-deadlines-postponed-to-feb-2-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "code": "MO-2025-01",
+   "state": "MO",
+   "title": "IRS provides tax relief for taxpayers impacted by severe storms, straight-line winds, tornadoes, and flooding in Missouri; various deadlines postponed to Nov. 3",
+   "postponed_to": "2025-11-03",
+   "link": "!irs.gov/newsroom/irs-provides-tax-relief-for-taxpayers-impacted-by-severe-storms-straight-line-winds-tornadoes-and-flooding-in-missouri-various-deadlines-postponed-to-nov-3",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "MS-2025-01",
+   "state": "MS",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, straight-line winds, tornadoes, and flooding in Mississippi; various deadlines postponed to Nov. 3",
+   "postponed_to": "2025-11-03",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-straight-line-winds-tornadoes-and-flooding-in-mississippi-various-deadlines-postponed-to-nov-3",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "TX-2025-03",
+   "state": "TX",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms and flooding in Texas; various deadlines postponed to Nov. 3",
+   "postponed_to": "2025-11-03",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-and-flooding-in-texas-various-deadlines-postponed-to-nov-3",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "OK-2025-02",
+   "state": "OK",
+   "title": "IRS announces tax relief for taxpayers impacted by wildfires and straight-line winds in Oklahoma; various deadlines postponed to Nov.3",
+   "postponed_to": "2025-11-03",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-wildfires-and-straight-line-winds-in-oklahoma-various-deadlines-postponed-to-nov-3",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "MO-2025-02",
+   "state": "MO",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, straight-line winds, tornadoes, and wildfires in Missouri; various deadlines postponed to Nov. 3",
+   "postponed_to": "2025-11-03",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-straight-line-winds-tornadoes-and-wildfires-in-missouri-various-deadlines-postponed-to-nov-3",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "VA-2025-03",
+   "state": "VA",
+   "title": "IRS announces tax relief for taxpayers impacted by severe winter storms and flooding in Virginia; various deadlines postponed to Nov. 3",
+   "postponed_to": "2025-11-03",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-winter-storms-and-flooding-in-virginia-various-deadlines-postponed-to-nov-3",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "NC-2025-01",
+   "state": "NC",
+   "title": "IRS further postpones various tax deadlines to Sept. 25 for North Carolina storm victims",
+   "postponed_to": "2025-09-25",
+   "link": "!irs.gov/newsroom/irs-further-postpones-various-tax-deadlines-to-sept-25-for-north-carolina-storm-victims",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "TN-2025-02",
+   "state": "TN",
+   "title": "IRS announces tax relief for Tennessee storm victims; various deadlines postponed to Nov. 3",
+   "postponed_to": "2025-11-03",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-tennessee-storm-victims-various-deadlines-postponed-to-nov-3",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "AR-2025-03",
+   "state": "AR",
+   "title": "IRS announces tax relief for Arkansas storm victims; various deadlines postponed to Nov. 3",
+   "postponed_to": "2025-11-03",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-arkansas-storm-victims-various-deadlines-postponed-to-nov-3",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "IR-2025-49",
+   "state": null,
+   "title": "IRS: All of Arkansas qualifies for disaster tax relief; various deadlines postponed to Nov. 3",
+   "postponed_to": "2025-11-03",
+   "link": "!irs.gov/newsroom/irs-all-of-arkansas-qualifies-for-disaster-tax-relief-various-deadlines-postponed-to-nov-3",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "IR-2025-47",
+   "state": null,
+   "title": "IRS: All of Tennessee qualifies for disaster tax relief; various deadlines postponed to Nov. 3",
+   "postponed_to": "2025-11-03",
+   "link": "!irs.gov/newsroom/irs-all-of-tennessee-qualifies-for-disaster-tax-relief-various-deadlines-postponed-to-nov-3",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "IR-2025-41",
+   "state": null,
+   "title": "IRS reminder: Disaster victims in twelve states have automatic extensions to file and pay their 2024 taxes",
+   "postponed_to": "2025-05-01",
+   "link": "!irs.gov/newsroom/irs-reminder-disaster-victims-in-twelve-states-have-automatic-extensions-to-file-and-pay-their-2024-taxes",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "primary date per the article (2024 returns); the same article lists Oct. 15 and Nov. 3, 2025 for other areas"
+  },
+  {
+   "code": "WV-2025-02",
+   "state": "WV",
+   "title": "IRS announces tax relief for West Virginia storm victims; various deadlines postponed to Nov. 3",
+   "postponed_to": "2025-11-03",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-west-virginia-storm-victims-various-deadlines-postponed-to-nov-3",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "IR-2025-34",
+   "state": null,
+   "title": "IRS: West Virginia storm victims qualify for tax relief; various deadlines postponed to Nov. 3",
+   "postponed_to": "2025-11-03",
+   "link": "!irs.gov/newsroom/irs-west-virginia-storm-victims-qualify-for-tax-relief-various-deadlines-postponed-to-nov-3",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "KY-2025-02",
+   "state": "KY",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, straight-line winds, flooding, and landslides in Kentucky; various deadlines postponed to Nov. 3",
+   "postponed_to": "2025-11-03",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-straight-line-winds-flooding-and-landslides-in-kentucky-various-deadlines-postponed-to-nov-3",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "CA-2025-01",
+   "state": "CA",
+   "title": "IRS announces tax relief for taxpayers impacted by wildfires in California; various deadlines postponed to Oct. 15",
+   "postponed_to": "2025-10-15",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-wildfires-in-california-various-deadlines-postponed-to-oct-15",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "IR-2025-10",
+   "state": null,
+   "title": "IRS: California wildfire victims qualify for tax relief; various deadlines postponed to Oct. 15",
+   "postponed_to": "2025-10-15",
+   "link": "!irs.gov/newsroom/irs-california-wildfire-victims-qualify-for-tax-relief-various-deadlines-postponed-to-oct-15",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "postponed_note": "year inferred from the announcement code"
+  },
+  {
+   "code": "IR-2025-01",
+   "state": null,
+   "title": "IRS reminder to disaster area taxpayers with extensions: All or parts of 14 states, 2 territories need to file 2023 returns by Feb. 3; others have until May 1",
+   "postponed_to": null,
+   "link": "!irs.gov/newsroom/irs-reminder-to-disaster-area-taxpayers-with-extensions-all-or-parts-of-14-states-2-territories-need-to-file-2023-returns-by-feb-3-others-have-until-may-1",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  }
+ ],
+ "notes": [
+  "Titles are the IRS's own headlines; two list-page anchor texts were stale and were replaced with the verified article headlines (TN-2026-01, IR-2025-41).",
+  "postponed_to is parsed from the headline; where the headline omits the year it is inferred from the announcement code and flagged. The headline is a summary - the article carries the covered localities and any later updates (see TN-2026-01).",
+  "Engine relevance: a disaster postponement under IRC 7508A moves the due date itself, so these rows are dated brackets for due-date overrides, keyed by state.",
+  "Backlog: the same page lists ~108 further entries for 2024 (postponements all expired in 2024-2025), not yet harvested.",
+  "Eight 2026 entries overlap data/tip-pool.json (harvested earlier from the Newsroom index); this file is the state-keyed collection."
+ ]
+}

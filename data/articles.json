@@ -1,0 +1,393 @@
+{
+ "seed": "IRS news releases seed (current month + October 2026)",
+ "retrieved": "2026-11-19",
+ "source_pages": [
+  "https://www.irs.gov/newsroom/news-releases-for-current-month",
+  "https://www.irs.gov/newsroom/news-releases-for-october-2026"
+ ],
+ "token_map": {
+  "!": "https://www.",
+  "@": "https://",
+  "#": "http://www.",
+  "$": "http://"
+ },
+ "host_record": {
+  "irs.gov": {
+   "scheme": "https",
+   "www": "both",
+   "canonical": "www",
+   "probed": "2026-11-19"
+  }
+ },
+ "notes": [
+  "Storage form: link = prefix token + host + path; expand char 1 at runtime.",
+  "Numbering is one shared counter across divisions (new = oldID + 1); gaps in any single list are numbers other divisions drew, not missing releases. Correction 2026-11-19: the live current-month page lists IR-2026-130 through 143 unbroken, including IR-2026-137 — the crawl copy used for the first seed missed it.",
+  "Database home undecided (Paul, 2026-11-19); this file is the interim stream."
+ ],
+ "articles": [
+  {
+   "n": 1,
+   "ir": "IR-2026-143",
+   "date": "2026-11-18",
+   "title": "IRS announces 2027 Tax Counseling for the Elderly and Volunteer Income Tax Assistance program grants",
+   "link": "!irs.gov/newsroom/irs-announces-2027-tax-counseling-for-the-elderly-and-volunteer-income-tax-assistance-program-grants",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 2,
+   "ir": "IR-2026-142",
+   "date": "2026-11-18",
+   "title": "IRS Advisory Council issues annual public report",
+   "link": "!irs.gov/newsroom/irs-advisory-council-issues-annual-public-report",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 3,
+   "ir": "IR-2026-141",
+   "date": "2026-11-17",
+   "title": "Treasury, IRS issue final rules to help hardworking Americans build a financially secure retirement",
+   "link": "!irs.gov/newsroom/treasury-irs-issue-final-rules-to-help-hardworking-americans-build-a-financially-secure-retirement",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 4,
+   "ir": "IR-2026-140",
+   "date": "2026-11-16",
+   "title": "IRS reminder: Take steps now to make tax filing in 2027 easier",
+   "link": "!irs.gov/newsroom/irs-reminder-take-steps-now-to-make-tax-filing-in-2027-easier",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 5,
+   "ir": "IR-2026-139",
+   "date": "2026-11-13",
+   "title": "IRS issues frequently asked questions about the Low-income Communities Bonus Credit Amount Program",
+   "link": "!irs.gov/newsroom/irs-issues-frequently-asked-questions-about-the-low-income-communities-bonus-credit-amount-program",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 6,
+   "ir": "IR-2026-138",
+   "date": "2026-11-13",
+   "title": "IRS appoints 10 new members to Electronic Tax Administration Advisory Committee",
+   "link": "!irs.gov/newsroom/irs-appoints-10-new-members-to-electronic-tax-administration-advisory-committee",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "ir": "IR-2026-137",
+   "date": "2026-11-12",
+   "title": "IRS shares Agency Financial Report for fiscal year 2026",
+   "link": "!irs.gov/newsroom/irs-shares-agency-financial-report-for-fiscal-year-2026",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   },
+   "n": 7
+  },
+  {
+   "n": 8,
+   "ir": "IR-2026-136",
+   "date": "2026-11-12",
+   "title": "401(k) limit increases to $25,500 for 2027, IRA limit remains $7,500",
+   "link": "!irs.gov/newsroom/401k-limit-increases-to-25500-for-2027-ira-limit-remains-7500",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 9,
+   "ir": "IR-2026-135",
+   "date": "2026-11-10",
+   "title": "IRS reminder: Permanent charitable contribution deduction begins for returns filed next year for taxpayers who do not itemize",
+   "link": "!irs.gov/newsroom/irs-reminder-permanent-charitable-contribution-deduction-begins-for-returns-filed-next-year-for-taxpayers-who-do-not-itemize",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 10,
+   "ir": "IR-2026-134",
+   "date": "2026-11-06",
+   "title": "IRS expands Tax Pro Account for business client payments",
+   "link": "!irs.gov/newsroom/irs-expands-tax-pro-account-for-business-client-payments",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 11,
+   "ir": "IR-2026-133",
+   "date": "2026-11-05",
+   "title": "IRS releases tax inflation adjustments for tax year 2027; taxpayers continue to benefit from the Working Families Tax Cuts",
+   "link": "!irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 12,
+   "ir": "IR-2026-132",
+   "date": "2026-11-05",
+   "title": "Treasury, IRS announce Opportunity Zones designations for over 6,500 communities across America",
+   "link": "!irs.gov/newsroom/treasury-irs-announce-opportunity-zones-designations-for-over-6500-communities-across-america",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 13,
+   "ir": "IR-2026-131",
+   "date": "2026-11-04",
+   "title": "IRS Nationwide Tax Forum Online offers new 2026 seminars",
+   "link": "!irs.gov/newsroom/irs-nationwide-tax-forum-online-offers-new-2026-seminars",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 14,
+   "ir": "IR-2026-130",
+   "date": "2026-11-04",
+   "title": "IRS reminder: Tax professionals should renew their PTINs for 2027",
+   "link": "!irs.gov/newsroom/irs-reminder-tax-professionals-should-renew-their-ptins-for-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 15,
+   "ir": "IR-2026-129",
+   "date": "2026-10-29",
+   "title": "IRS achieved historic performance in 2026 for American taxpayers, efficiently delivering new tax benefits to working families",
+   "link": "!irs.gov/newsroom/irs-achieved-historic-performance-in-2026-for-american-taxpayers-efficiently-delivering-new-tax-benefits-to-working-families",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 16,
+   "ir": "IR-2026-128",
+   "date": "2026-10-23",
+   "title": "IRS reminder: Year-round tax planning can make filing easier",
+   "link": "!irs.gov/newsroom/irs-reminder-year-round-tax-planning-can-make-filing-easier",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 17,
+   "ir": "IR-2026-127",
+   "date": "2026-10-22",
+   "title": "IRS reminder: Take steps now to protect tax information",
+   "link": "!irs.gov/newsroom/irs-reminder-take-steps-now-to-protect-tax-information",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 18,
+   "ir": "IR-2026-126",
+   "date": "2026-10-22",
+   "title": "Treasury, IRS update retirement plan correction program and establish correction program for individual retirement accounts",
+   "link": "!irs.gov/newsroom/treasury-irs-update-retirement-plan-correction-program-and-establish-correction-program-for-individual-retirement-accounts",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 19,
+   "ir": "IR-2026-125",
+   "date": "2026-10-21",
+   "title": "Temporary reporting and recordkeeping relief for certain fuel uses",
+   "link": "!irs.gov/newsroom/temporary-reporting-and-recordkeeping-relief-for-certain-fuel-uses",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 20,
+   "ir": "IR-2026-124",
+   "date": "2026-10-16",
+   "title": "IRS announces 2026 Tax Professional Awareness Week, highlighting resources to help tax professionals prepare for the 2027 filing season",
+   "link": "!irs.gov/newsroom/irs-announces-2026-tax-professional-awareness-week-highlighting-resources-to-help-tax-professionals-prepare-for-the-2027-filing-season",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 21,
+   "ir": "IR-2026-123",
+   "date": "2026-10-16",
+   "title": "IRS has begun issuing automatic refunds to individuals who claimed Adoption Tax Credit carryforward from prior years",
+   "link": "!irs.gov/newsroom/irs-has-begun-issuing-automatic-refunds-to-individuals-who-claimed-adoption-tax-credit-carryforward-from-prior-years",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 22,
+   "ir": "IR-2026-121",
+   "date": "2026-10-14",
+   "title": "Treasury and IRS move to protect health care benefits for eligible Americans",
+   "link": "!irs.gov/newsroom/treasury-and-irs-move-to-protect-health-care-benefits-for-eligible-americans",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 23,
+   "ir": "IR-2026-120",
+   "date": "2026-10-07",
+   "title": "IRS highlights partnership with UK tax authority's new whistleblower program",
+   "link": "!irs.gov/newsroom/irs-highlights-partnership-with-uk-tax-authoritys-new-whistleblower-program",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 24,
+   "ir": "IR-2026-119",
+   "date": "2026-10-02",
+   "title": "IRS reminder: Cybersecurity Awareness Month offers simple steps to protect tax data",
+   "link": "!irs.gov/newsroom/irs-reminder-cybersecurity-awareness-month-offers-simple-steps-to-protect-tax-data",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 25,
+   "ir": "IR-2026-118",
+   "date": "2026-10-01",
+   "title": "The IRS seeks community partners and volunteers to support free tax services",
+   "link": "!irs.gov/newsroom/the-irs-seeks-community-partners-and-volunteers-to-support-free-tax-services",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "n": 26,
+   "ir": "IR-2026-117",
+   "date": "2026-10-01",
+   "title": "The Trump administration advances the establishment of America's first nationwide school choice program",
+   "link": "!irs.gov/newsroom/the-trump-administration-advances-the-establishment-of-americas-first-nationwide-school-choice-program",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  }
+ ]
+}

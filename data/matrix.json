@@ -1,0 +1,4605 @@
+{
+ "rates": [
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2012-01-01",
+   "period_end": "2012-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2012-01-01",
+   "period_end": "2012-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2012-01-01",
+   "period_end": "2012-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2012-01-01",
+   "period_end": "2012-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2012-01-01",
+   "period_end": "2012-03-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2012-01-01",
+   "period_end": "2012-03-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2012-04-01",
+   "period_end": "2012-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2012-04-01",
+   "period_end": "2012-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2012-04-01",
+   "period_end": "2012-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2012-04-01",
+   "period_end": "2012-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2012-04-01",
+   "period_end": "2012-06-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2012-04-01",
+   "period_end": "2012-06-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2012-07-01",
+   "period_end": "2012-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2012-07-01",
+   "period_end": "2012-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2012-07-01",
+   "period_end": "2012-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2012-07-01",
+   "period_end": "2012-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2012-07-01",
+   "period_end": "2012-09-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2012-07-01",
+   "period_end": "2012-09-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2012-10-01",
+   "period_end": "2012-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2012-10-01",
+   "period_end": "2012-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2012-10-01",
+   "period_end": "2012-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2012-10-01",
+   "period_end": "2012-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2012-10-01",
+   "period_end": "2012-12-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2012-10-01",
+   "period_end": "2012-12-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2013-01-01",
+   "period_end": "2013-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2013-01-01",
+   "period_end": "2013-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2013-01-01",
+   "period_end": "2013-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2013-01-01",
+   "period_end": "2013-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2013-01-01",
+   "period_end": "2013-03-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2013-01-01",
+   "period_end": "2013-03-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2013-04-01",
+   "period_end": "2013-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2013-04-01",
+   "period_end": "2013-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2013-04-01",
+   "period_end": "2013-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2013-04-01",
+   "period_end": "2013-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2013-04-01",
+   "period_end": "2013-06-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2013-04-01",
+   "period_end": "2013-06-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2013-07-01",
+   "period_end": "2013-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2013-07-01",
+   "period_end": "2013-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2013-07-01",
+   "period_end": "2013-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2013-07-01",
+   "period_end": "2013-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2013-07-01",
+   "period_end": "2013-09-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2013-07-01",
+   "period_end": "2013-09-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2013-10-01",
+   "period_end": "2013-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2013-10-01",
+   "period_end": "2013-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2013-10-01",
+   "period_end": "2013-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2013-10-01",
+   "period_end": "2013-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2013-10-01",
+   "period_end": "2013-12-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2013-10-01",
+   "period_end": "2013-12-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2014-01-01",
+   "period_end": "2014-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2014-01-01",
+   "period_end": "2014-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2014-01-01",
+   "period_end": "2014-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2014-01-01",
+   "period_end": "2014-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2014-01-01",
+   "period_end": "2014-03-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2014-01-01",
+   "period_end": "2014-03-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2014-04-01",
+   "period_end": "2014-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2014-04-01",
+   "period_end": "2014-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2014-04-01",
+   "period_end": "2014-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2014-04-01",
+   "period_end": "2014-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2014-04-01",
+   "period_end": "2014-06-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2014-04-01",
+   "period_end": "2014-06-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2014-07-01",
+   "period_end": "2014-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2014-07-01",
+   "period_end": "2014-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2014-07-01",
+   "period_end": "2014-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2014-07-01",
+   "period_end": "2014-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2014-07-01",
+   "period_end": "2014-09-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2014-07-01",
+   "period_end": "2014-09-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2014-10-01",
+   "period_end": "2014-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2014-10-01",
+   "period_end": "2014-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2014-10-01",
+   "period_end": "2014-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2014-10-01",
+   "period_end": "2014-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2014-10-01",
+   "period_end": "2014-12-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2014-10-01",
+   "period_end": "2014-12-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2015-01-01",
+   "period_end": "2015-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2015-01-01",
+   "period_end": "2015-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2015-01-01",
+   "period_end": "2015-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2015-01-01",
+   "period_end": "2015-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2015-01-01",
+   "period_end": "2015-03-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2015-01-01",
+   "period_end": "2015-03-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2015-04-01",
+   "period_end": "2015-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2015-04-01",
+   "period_end": "2015-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2015-04-01",
+   "period_end": "2015-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2015-04-01",
+   "period_end": "2015-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2015-04-01",
+   "period_end": "2015-06-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2015-04-01",
+   "period_end": "2015-06-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2015-07-01",
+   "period_end": "2015-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2015-07-01",
+   "period_end": "2015-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2015-07-01",
+   "period_end": "2015-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2015-07-01",
+   "period_end": "2015-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2015-07-01",
+   "period_end": "2015-09-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2015-07-01",
+   "period_end": "2015-09-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2015-10-01",
+   "period_end": "2015-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2015-10-01",
+   "period_end": "2015-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2015-10-01",
+   "period_end": "2015-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2015-10-01",
+   "period_end": "2015-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2015-10-01",
+   "period_end": "2015-12-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2015-10-01",
+   "period_end": "2015-12-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2016-01-01",
+   "period_end": "2016-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2016-01-01",
+   "period_end": "2016-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2016-01-01",
+   "period_end": "2016-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2016-01-01",
+   "period_end": "2016-03-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2016-01-01",
+   "period_end": "2016-03-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2016-01-01",
+   "period_end": "2016-03-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2016-04-01",
+   "period_end": "2016-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2016-04-01",
+   "period_end": "2016-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 6,
+   "period_start": "2016-04-01",
+   "period_end": "2016-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2016-04-01",
+   "period_end": "2016-06-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2016-04-01",
+   "period_end": "2016-06-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 1.5,
+   "period_start": "2016-04-01",
+   "period_end": "2016-06-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2016-07-01",
+   "period_end": "2016-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2016-07-01",
+   "period_end": "2016-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 6,
+   "period_start": "2016-07-01",
+   "period_end": "2016-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2016-07-01",
+   "period_end": "2016-09-30",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2016-07-01",
+   "period_end": "2016-09-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 1.5,
+   "period_start": "2016-07-01",
+   "period_end": "2016-09-30",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2016-10-01",
+   "period_end": "2016-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2016-10-01",
+   "period_end": "2016-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 6,
+   "period_start": "2016-10-01",
+   "period_end": "2016-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/irb/2018-26_IRB"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2016-10-01",
+   "period_end": "2016-12-31",
+   "authority_cite": "IRC 6621; Table of Interest Rates in Rev. Rul. 2017-6 (IRB 2017-12) and Rev. Rul. 2018-18 (IRB 2018-26)",
+   "source_url": "https://www.eitc.irs.gov/pub/irs-irbs/irb17-12.pdf"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2016-10-01",
+   "period_end": "2016-12-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 1.5,
+   "period_start": "2016-10-01",
+   "period_end": "2016-12-31",
+   "authority_cite": "IRC 6621(a)(1) formula applied to published federal short-term rate (see README: derived values)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6621"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2017-01-01",
+   "period_end": "2017-03-31",
+   "authority_cite": "IRC 6621 (IRB 2016-51)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2017-01-01",
+   "period_end": "2017-03-31",
+   "authority_cite": "IRC 6621 (IRB 2016-51)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 6,
+   "period_start": "2017-01-01",
+   "period_end": "2017-03-31",
+   "authority_cite": "IRC 6621 (IRB 2016-51)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2017-01-01",
+   "period_end": "2017-03-31",
+   "authority_cite": "IRC 6621 (IRB 2016-51)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2017-01-01",
+   "period_end": "2017-03-31",
+   "authority_cite": "IRC 6621 (IRB 2016-51)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 1.5,
+   "period_start": "2017-01-01",
+   "period_end": "2017-03-31",
+   "authority_cite": "IRC 6621 (IRB 2016-51)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2017-04-01",
+   "period_end": "2017-06-30",
+   "authority_cite": "IRC 6621 (IRB 2017-12)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2017-04-01",
+   "period_end": "2017-06-30",
+   "authority_cite": "IRC 6621 (IRB 2017-12)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 6,
+   "period_start": "2017-04-01",
+   "period_end": "2017-06-30",
+   "authority_cite": "IRC 6621 (IRB 2017-12)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2017-04-01",
+   "period_end": "2017-06-30",
+   "authority_cite": "IRC 6621 (IRB 2017-12)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2017-04-01",
+   "period_end": "2017-06-30",
+   "authority_cite": "IRC 6621 (IRB 2017-12)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 1.5,
+   "period_start": "2017-04-01",
+   "period_end": "2017-06-30",
+   "authority_cite": "IRC 6621 (IRB 2017-12)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2017-07-01",
+   "period_end": "2017-09-30",
+   "authority_cite": "IRC 6621 (IRB 2017-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2017-07-01",
+   "period_end": "2017-09-30",
+   "authority_cite": "IRC 6621 (IRB 2017-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 6,
+   "period_start": "2017-07-01",
+   "period_end": "2017-09-30",
+   "authority_cite": "IRC 6621 (IRB 2017-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2017-07-01",
+   "period_end": "2017-09-30",
+   "authority_cite": "IRC 6621 (IRB 2017-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2017-07-01",
+   "period_end": "2017-09-30",
+   "authority_cite": "IRC 6621 (IRB 2017-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 1.5,
+   "period_start": "2017-07-01",
+   "period_end": "2017-09-30",
+   "authority_cite": "IRC 6621 (IRB 2017-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2017-10-01",
+   "period_end": "2017-12-31",
+   "authority_cite": "IRC 6621 (IRB 2017-39)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2017-10-01",
+   "period_end": "2017-12-31",
+   "authority_cite": "IRC 6621 (IRB 2017-39)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 6,
+   "period_start": "2017-10-01",
+   "period_end": "2017-12-31",
+   "authority_cite": "IRC 6621 (IRB 2017-39)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2017-10-01",
+   "period_end": "2017-12-31",
+   "authority_cite": "IRC 6621 (IRB 2017-39)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2017-10-01",
+   "period_end": "2017-12-31",
+   "authority_cite": "IRC 6621 (IRB 2017-39)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 1.5,
+   "period_start": "2017-10-01",
+   "period_end": "2017-12-31",
+   "authority_cite": "IRC 6621 (IRB 2017-39)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2018-01-01",
+   "period_end": "2018-03-31",
+   "authority_cite": "IRC 6621 (IRB 2017-52)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2018-01-01",
+   "period_end": "2018-03-31",
+   "authority_cite": "IRC 6621 (IRB 2017-52)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 6,
+   "period_start": "2018-01-01",
+   "period_end": "2018-03-31",
+   "authority_cite": "IRC 6621 (IRB 2017-52)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2018-01-01",
+   "period_end": "2018-03-31",
+   "authority_cite": "IRC 6621 (IRB 2017-52)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2018-01-01",
+   "period_end": "2018-03-31",
+   "authority_cite": "IRC 6621 (IRB 2017-52)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 1.5,
+   "period_start": "2018-01-01",
+   "period_end": "2018-03-31",
+   "authority_cite": "IRC 6621 (IRB 2017-52)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 5,
+   "period_start": "2018-04-01",
+   "period_end": "2018-06-30",
+   "authority_cite": "IRC 6621 (IRB 2018-13)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 5,
+   "period_start": "2018-04-01",
+   "period_end": "2018-06-30",
+   "authority_cite": "IRC 6621 (IRB 2018-13)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 7,
+   "period_start": "2018-04-01",
+   "period_end": "2018-06-30",
+   "authority_cite": "IRC 6621 (IRB 2018-13)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 5,
+   "period_start": "2018-04-01",
+   "period_end": "2018-06-30",
+   "authority_cite": "IRC 6621 (IRB 2018-13)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2018-04-01",
+   "period_end": "2018-06-30",
+   "authority_cite": "IRC 6621 (IRB 2018-13)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 2.5,
+   "period_start": "2018-04-01",
+   "period_end": "2018-06-30",
+   "authority_cite": "IRC 6621 (IRB 2018-13)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 5,
+   "period_start": "2018-07-01",
+   "period_end": "2018-09-30",
+   "authority_cite": "IRC 6621 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 5,
+   "period_start": "2018-07-01",
+   "period_end": "2018-09-30",
+   "authority_cite": "IRC 6621 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 7,
+   "period_start": "2018-07-01",
+   "period_end": "2018-09-30",
+   "authority_cite": "IRC 6621 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 5,
+   "period_start": "2018-07-01",
+   "period_end": "2018-09-30",
+   "authority_cite": "IRC 6621 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2018-07-01",
+   "period_end": "2018-09-30",
+   "authority_cite": "IRC 6621 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 2.5,
+   "period_start": "2018-07-01",
+   "period_end": "2018-09-30",
+   "authority_cite": "IRC 6621 (IRB 2018-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 5,
+   "period_start": "2018-10-01",
+   "period_end": "2018-12-31",
+   "authority_cite": "IRC 6621 (IRB 2018-39)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 5,
+   "period_start": "2018-10-01",
+   "period_end": "2018-12-31",
+   "authority_cite": "IRC 6621 (IRB 2018-39)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 7,
+   "period_start": "2018-10-01",
+   "period_end": "2018-12-31",
+   "authority_cite": "IRC 6621 (IRB 2018-39)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 5,
+   "period_start": "2018-10-01",
+   "period_end": "2018-12-31",
+   "authority_cite": "IRC 6621 (IRB 2018-39)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2018-10-01",
+   "period_end": "2018-12-31",
+   "authority_cite": "IRC 6621 (IRB 2018-39)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 2.5,
+   "period_start": "2018-10-01",
+   "period_end": "2018-12-31",
+   "authority_cite": "IRC 6621 (IRB 2018-39)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 6,
+   "period_start": "2019-01-01",
+   "period_end": "2019-03-31",
+   "authority_cite": "IRC 6621 (IRB 2018-51)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 6,
+   "period_start": "2019-01-01",
+   "period_end": "2019-03-31",
+   "authority_cite": "IRC 6621 (IRB 2018-51)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 8,
+   "period_start": "2019-01-01",
+   "period_end": "2019-03-31",
+   "authority_cite": "IRC 6621 (IRB 2018-51)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 6,
+   "period_start": "2019-01-01",
+   "period_end": "2019-03-31",
+   "authority_cite": "IRC 6621 (IRB 2018-51)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 5,
+   "period_start": "2019-01-01",
+   "period_end": "2019-03-31",
+   "authority_cite": "IRC 6621 (IRB 2018-51)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 3.5,
+   "period_start": "2019-01-01",
+   "period_end": "2019-03-31",
+   "authority_cite": "IRC 6621 (IRB 2018-51)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 6,
+   "period_start": "2019-04-01",
+   "period_end": "2019-06-30",
+   "authority_cite": "IRC 6621 (IRB 2019-11)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 6,
+   "period_start": "2019-04-01",
+   "period_end": "2019-06-30",
+   "authority_cite": "IRC 6621 (IRB 2019-11)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 8,
+   "period_start": "2019-04-01",
+   "period_end": "2019-06-30",
+   "authority_cite": "IRC 6621 (IRB 2019-11)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 6,
+   "period_start": "2019-04-01",
+   "period_end": "2019-06-30",
+   "authority_cite": "IRC 6621 (IRB 2019-11)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 5,
+   "period_start": "2019-04-01",
+   "period_end": "2019-06-30",
+   "authority_cite": "IRC 6621 (IRB 2019-11)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 3.5,
+   "period_start": "2019-04-01",
+   "period_end": "2019-06-30",
+   "authority_cite": "IRC 6621 (IRB 2019-11)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 5,
+   "period_start": "2019-07-01",
+   "period_end": "2019-09-30",
+   "authority_cite": "IRC 6621 (IRB 2019-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 5,
+   "period_start": "2019-07-01",
+   "period_end": "2019-09-30",
+   "authority_cite": "IRC 6621 (IRB 2019-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 7,
+   "period_start": "2019-07-01",
+   "period_end": "2019-09-30",
+   "authority_cite": "IRC 6621 (IRB 2019-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 5,
+   "period_start": "2019-07-01",
+   "period_end": "2019-09-30",
+   "authority_cite": "IRC 6621 (IRB 2019-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2019-07-01",
+   "period_end": "2019-09-30",
+   "authority_cite": "IRC 6621 (IRB 2019-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 2.5,
+   "period_start": "2019-07-01",
+   "period_end": "2019-09-30",
+   "authority_cite": "IRC 6621 (IRB 2019-26)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 5,
+   "period_start": "2019-10-01",
+   "period_end": "2019-12-31",
+   "authority_cite": "IRC 6621 (IRB 2019-38)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 5,
+   "period_start": "2019-10-01",
+   "period_end": "2019-12-31",
+   "authority_cite": "IRC 6621 (IRB 2019-38)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 7,
+   "period_start": "2019-10-01",
+   "period_end": "2019-12-31",
+   "authority_cite": "IRC 6621 (IRB 2019-38)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 5,
+   "period_start": "2019-10-01",
+   "period_end": "2019-12-31",
+   "authority_cite": "IRC 6621 (IRB 2019-38)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2019-10-01",
+   "period_end": "2019-12-31",
+   "authority_cite": "IRC 6621 (IRB 2019-38)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 2.5,
+   "period_start": "2019-10-01",
+   "period_end": "2019-12-31",
+   "authority_cite": "IRC 6621 (IRB 2019-38)",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 5,
+   "period_start": "2020-01-01",
+   "period_end": "2020-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2019-28",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 5,
+   "period_start": "2020-01-01",
+   "period_end": "2020-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2019-28",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 7,
+   "period_start": "2020-01-01",
+   "period_end": "2020-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2019-28",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 5,
+   "period_start": "2020-01-01",
+   "period_end": "2020-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2019-28",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2020-01-01",
+   "period_end": "2020-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2019-28",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 2.5,
+   "period_start": "2020-01-01",
+   "period_end": "2020-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2019-28",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 5,
+   "period_start": "2020-04-01",
+   "period_end": "2020-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-7",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 5,
+   "period_start": "2020-04-01",
+   "period_end": "2020-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-7",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 7,
+   "period_start": "2020-04-01",
+   "period_end": "2020-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-7",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 5,
+   "period_start": "2020-04-01",
+   "period_end": "2020-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-7",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2020-04-01",
+   "period_end": "2020-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-7",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 2.5,
+   "period_start": "2020-04-01",
+   "period_end": "2020-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-7",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2020-07-01",
+   "period_end": "2020-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-13",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2020-07-01",
+   "period_end": "2020-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-13",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2020-07-01",
+   "period_end": "2020-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-13",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2020-07-01",
+   "period_end": "2020-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-13",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2020-07-01",
+   "period_end": "2020-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-13",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2020-07-01",
+   "period_end": "2020-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-13",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2020-10-01",
+   "period_end": "2020-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2020-10-01",
+   "period_end": "2020-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2020-10-01",
+   "period_end": "2020-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2020-10-01",
+   "period_end": "2020-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2020-10-01",
+   "period_end": "2020-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2020-10-01",
+   "period_end": "2020-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2021-01-01",
+   "period_end": "2021-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-28",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2021-01-01",
+   "period_end": "2021-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-28",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2021-01-01",
+   "period_end": "2021-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-28",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2021-01-01",
+   "period_end": "2021-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-28",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2021-01-01",
+   "period_end": "2021-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-28",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2021-01-01",
+   "period_end": "2021-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2020-28",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2021-04-01",
+   "period_end": "2021-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-6",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2021-04-01",
+   "period_end": "2021-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-6",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2021-04-01",
+   "period_end": "2021-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-6",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2021-04-01",
+   "period_end": "2021-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-6",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2021-04-01",
+   "period_end": "2021-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-6",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2021-04-01",
+   "period_end": "2021-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-6",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2021-07-01",
+   "period_end": "2021-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-10",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2021-07-01",
+   "period_end": "2021-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-10",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2021-07-01",
+   "period_end": "2021-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-10",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2021-07-01",
+   "period_end": "2021-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-10",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2021-07-01",
+   "period_end": "2021-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-10",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2021-07-01",
+   "period_end": "2021-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-10",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2021-10-01",
+   "period_end": "2021-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-17",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2021-10-01",
+   "period_end": "2021-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-17",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2021-10-01",
+   "period_end": "2021-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-17",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2021-10-01",
+   "period_end": "2021-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-17",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2021-10-01",
+   "period_end": "2021-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-17",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2021-10-01",
+   "period_end": "2021-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-17",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2022-01-01",
+   "period_end": "2022-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-24",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2022-01-01",
+   "period_end": "2022-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-24",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 5,
+   "period_start": "2022-01-01",
+   "period_end": "2022-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-24",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 3,
+   "period_start": "2022-01-01",
+   "period_end": "2022-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-24",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 2,
+   "period_start": "2022-01-01",
+   "period_end": "2022-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-24",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 0.5,
+   "period_start": "2022-01-01",
+   "period_end": "2022-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2021-24",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2022-04-01",
+   "period_end": "2022-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-5",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2022-04-01",
+   "period_end": "2022-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-5",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 6,
+   "period_start": "2022-04-01",
+   "period_end": "2022-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-5",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 4,
+   "period_start": "2022-04-01",
+   "period_end": "2022-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-5",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 3,
+   "period_start": "2022-04-01",
+   "period_end": "2022-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-5",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 1.5,
+   "period_start": "2022-04-01",
+   "period_end": "2022-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-5",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 5,
+   "period_start": "2022-07-01",
+   "period_end": "2022-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 5,
+   "period_start": "2022-07-01",
+   "period_end": "2022-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 7,
+   "period_start": "2022-07-01",
+   "period_end": "2022-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 5,
+   "period_start": "2022-07-01",
+   "period_end": "2022-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 4,
+   "period_start": "2022-07-01",
+   "period_end": "2022-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 2.5,
+   "period_start": "2022-07-01",
+   "period_end": "2022-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 6,
+   "period_start": "2022-10-01",
+   "period_end": "2022-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-15",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 6,
+   "period_start": "2022-10-01",
+   "period_end": "2022-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-15",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 8,
+   "period_start": "2022-10-01",
+   "period_end": "2022-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-15",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 6,
+   "period_start": "2022-10-01",
+   "period_end": "2022-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-15",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 5,
+   "period_start": "2022-10-01",
+   "period_end": "2022-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-15",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 3.5,
+   "period_start": "2022-10-01",
+   "period_end": "2022-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-15",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2023-01-01",
+   "period_end": "2023-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-23",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 7,
+   "period_start": "2023-01-01",
+   "period_end": "2023-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-23",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 9,
+   "period_start": "2023-01-01",
+   "period_end": "2023-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-23",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2023-01-01",
+   "period_end": "2023-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-23",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 6,
+   "period_start": "2023-01-01",
+   "period_end": "2023-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-23",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 4.5,
+   "period_start": "2023-01-01",
+   "period_end": "2023-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2022-23",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2023-04-01",
+   "period_end": "2023-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-4",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 7,
+   "period_start": "2023-04-01",
+   "period_end": "2023-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-4",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 9,
+   "period_start": "2023-04-01",
+   "period_end": "2023-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-4",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2023-04-01",
+   "period_end": "2023-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-4",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 6,
+   "period_start": "2023-04-01",
+   "period_end": "2023-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-4",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 4.5,
+   "period_start": "2023-04-01",
+   "period_end": "2023-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-4",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2023-07-01",
+   "period_end": "2023-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 7,
+   "period_start": "2023-07-01",
+   "period_end": "2023-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 9,
+   "period_start": "2023-07-01",
+   "period_end": "2023-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2023-07-01",
+   "period_end": "2023-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 6,
+   "period_start": "2023-07-01",
+   "period_end": "2023-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 4.5,
+   "period_start": "2023-07-01",
+   "period_end": "2023-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 8,
+   "period_start": "2023-10-01",
+   "period_end": "2023-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-17",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 8,
+   "period_start": "2023-10-01",
+   "period_end": "2023-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-17",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 10,
+   "period_start": "2023-10-01",
+   "period_end": "2023-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-17",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 8,
+   "period_start": "2023-10-01",
+   "period_end": "2023-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-17",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 7,
+   "period_start": "2023-10-01",
+   "period_end": "2023-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-17",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 5.5,
+   "period_start": "2023-10-01",
+   "period_end": "2023-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-17",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 8,
+   "period_start": "2024-01-01",
+   "period_end": "2024-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-22",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 8,
+   "period_start": "2024-01-01",
+   "period_end": "2024-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-22",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 10,
+   "period_start": "2024-01-01",
+   "period_end": "2024-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-22",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 8,
+   "period_start": "2024-01-01",
+   "period_end": "2024-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-22",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 7,
+   "period_start": "2024-01-01",
+   "period_end": "2024-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-22",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 5.5,
+   "period_start": "2024-01-01",
+   "period_end": "2024-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2023-22",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 8,
+   "period_start": "2024-04-01",
+   "period_end": "2024-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-6",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 8,
+   "period_start": "2024-04-01",
+   "period_end": "2024-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-6",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 10,
+   "period_start": "2024-04-01",
+   "period_end": "2024-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-6",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 8,
+   "period_start": "2024-04-01",
+   "period_end": "2024-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-6",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 7,
+   "period_start": "2024-04-01",
+   "period_end": "2024-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-6",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 5.5,
+   "period_start": "2024-04-01",
+   "period_end": "2024-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-6",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 8,
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 8,
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 10,
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 8,
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 7,
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 5.5,
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 8,
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 8,
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 10,
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 8,
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 7,
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 5.5,
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-25",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 7,
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-25",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 9,
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-25",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-25",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 6,
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-25",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 4.5,
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2024-25",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-7",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 7,
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-7",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 9,
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-7",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-7",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 6,
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-7",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 4.5,
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-7",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 7,
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 9,
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 6,
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 4.5,
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-11",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 7,
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 9,
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 6,
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 4.5,
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-18",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-22",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 7,
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-22",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 9,
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-22",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-22",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 6,
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-22",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 4.5,
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2025-22",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 6,
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-5",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 6,
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-5",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 8,
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-5",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 6,
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-5",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 5,
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-5",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 3.5,
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-5",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-10",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 7,
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-10",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 9,
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-10",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-10",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 6,
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-10",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 4.5,
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-10",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2026-10-01",
+   "period_end": "2026-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-15",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "underpayment_corporate",
+   "rate_percent": 7,
+   "period_start": "2026-10-01",
+   "period_end": "2026-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-15",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "large_corporate_underpayment",
+   "rate_percent": 9,
+   "period_start": "2026-10-01",
+   "period_end": "2026-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-15",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_noncorporate",
+   "rate_percent": 7,
+   "period_start": "2026-10-01",
+   "period_end": "2026-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-15",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate",
+   "rate_percent": 6,
+   "period_start": "2026-10-01",
+   "period_end": "2026-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-15",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "US",
+   "category": "overpayment_corporate_excess_10000",
+   "rate_percent": 4.5,
+   "period_start": "2026-10-01",
+   "period_end": "2026-12-31",
+   "authority_cite": "IRC 6621; Rev. Rul. 2026-15",
+   "source_url": "https://www.irs.gov/payments/quarterly-interest-rates"
+  },
+  {
+   "jurisdiction": "PR",
+   "category": "underpayment_all",
+   "rate_percent": 10,
+   "period_start": "2011-01-01",
+   "period_end": "",
+   "authority_cite": "Puerto Rico Internal Revenue Code of 2011 (Act 1-2011), Sec. 6030.02 - interest at 10% annual rate on tax not paid by due date",
+   "source_url": "https://hacienda.pr.gov/sites/default/files/inst_nonprofit_2025.pdf"
+  },
+  {
+   "jurisdiction": "GU",
+   "category": "underpayment_mirror_irc_6621",
+   "rate_percent": null,
+   "period_start": "2012-01-01",
+   "period_end": "",
+   "authority_cite": "48 U.S.C. 1421i - Guam Territorial Income Tax mirrors IRC 6621; use US federal rows for this jurisdiction",
+   "source_url": "https://www.guamtax.com/help/pops/instructions.html"
+  },
+  {
+   "jurisdiction": "VI",
+   "category": "underpayment_mirror_irc_6621",
+   "rate_percent": null,
+   "period_start": "2012-01-01",
+   "period_end": "",
+   "authority_cite": "48 U.S.C. 1397 - IRC applies as Virgin Islands income tax law (mirror); use US federal rows for this jurisdiction",
+   "source_url": "https://www.law.cornell.edu/uscode/text/48/1397"
+  },
+  {
+   "jurisdiction": "CNMI",
+   "category": "underpayment_mirror_irc_6621_local_quarterly",
+   "rate_percent": null,
+   "period_start": "2012-01-01",
+   "period_end": "",
+   "authority_cite": "Covenant Sec. 601 (48 U.S.C. 1801 note); 4 CMC 1701 et seq. (NMTIT mirrors IRC); interest charged under CNMI P.L. 14-35 at a quarterly rate set by the Division of Revenue and Taxation - rate values not published in retrieved sources (see Missing list)",
+   "source_url": "https://finance.gov.mp/division-forms/revenue-taxation/2009/2009-os-3705.pdf"
+  }
+ ],
+ "afr_monthly": [
+  {
+   "month": "2021-02",
+   "short_term_afr_annual_percent": 0.12,
+   "revenue_ruling": "Rev. Rul. 2021-4",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2021-03",
+   "short_term_afr_annual_percent": 0.11,
+   "revenue_ruling": "Rev. Rul. 2021-5",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2021-04",
+   "short_term_afr_annual_percent": 0.12,
+   "revenue_ruling": "Rev. Rul. 2021-7",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2021-05",
+   "short_term_afr_annual_percent": 0.13,
+   "revenue_ruling": "Rev. Rul. 2021-8",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2021-06",
+   "short_term_afr_annual_percent": 0.13,
+   "revenue_ruling": "Rev. Rul. 2021-9",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2021-07",
+   "short_term_afr_annual_percent": 0.12,
+   "revenue_ruling": "Rev. Rul. 2021-12",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2021-08",
+   "short_term_afr_annual_percent": 0.19,
+   "revenue_ruling": "Rev. Rul. 2021-14",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2021-09",
+   "short_term_afr_annual_percent": 0.17,
+   "revenue_ruling": "Rev. Rul. 2021-16",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2021-10",
+   "short_term_afr_annual_percent": 0.18,
+   "revenue_ruling": "Rev. Rul. 2021-18",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2021-11",
+   "short_term_afr_annual_percent": 0.22,
+   "revenue_ruling": "Rev. Rul. 2021-21",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2021-12",
+   "short_term_afr_annual_percent": 0.33,
+   "revenue_ruling": "Rev. Rul. 2021-23",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2022-01",
+   "short_term_afr_annual_percent": 0.44,
+   "revenue_ruling": "Rev. Rul. 2022-1",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2022-02",
+   "short_term_afr_annual_percent": 0.59,
+   "revenue_ruling": "Rev. Rul. 2022-3",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2022-03",
+   "short_term_afr_annual_percent": 0.97,
+   "revenue_ruling": "Rev. Rul. 2022-4",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2022-04",
+   "short_term_afr_annual_percent": 1.26,
+   "revenue_ruling": "Rev. Rul. 2022-8",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2022-05",
+   "short_term_afr_annual_percent": 1.85,
+   "revenue_ruling": "Rev. Rul. 2022-9",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2022-06",
+   "short_term_afr_annual_percent": 2.21,
+   "revenue_ruling": "Rev. Rul. 2022-10",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2022-07",
+   "short_term_afr_annual_percent": 2.37,
+   "revenue_ruling": "Rev. Rul. 2022-12",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2022-08",
+   "short_term_afr_annual_percent": 2.88,
+   "revenue_ruling": "Rev. Rul. 2022-14",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2022-09",
+   "short_term_afr_annual_percent": 3.05,
+   "revenue_ruling": "Rev. Rul. 2022-17",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2022-10",
+   "short_term_afr_annual_percent": 3.4,
+   "revenue_ruling": "Rev. Rul. 2022-18",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2022-11",
+   "short_term_afr_annual_percent": 4.1,
+   "revenue_ruling": "Rev. Rul. 2022-20",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2022-12",
+   "short_term_afr_annual_percent": 4.55,
+   "revenue_ruling": "Rev. Rul. 2022-22",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2023-01",
+   "short_term_afr_annual_percent": 4.5,
+   "revenue_ruling": "Rev. Rul. 2023-1",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2023-02",
+   "short_term_afr_annual_percent": 4.47,
+   "revenue_ruling": "Rev. Rul. 2023-3",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2023-03",
+   "short_term_afr_annual_percent": 4.5,
+   "revenue_ruling": "Rev. Rul. 2023-5",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2023-04",
+   "short_term_afr_annual_percent": 4.86,
+   "revenue_ruling": "Rev. Rul. 2023-6",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2023-05",
+   "short_term_afr_annual_percent": 4.3,
+   "revenue_ruling": "Rev. Rul. 2023-9",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2023-06",
+   "short_term_afr_annual_percent": 4.43,
+   "revenue_ruling": "Rev. Rul. 2023-10",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2023-07",
+   "short_term_afr_annual_percent": 4.8,
+   "revenue_ruling": "Rev. Rul. 2023-12",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2023-08",
+   "short_term_afr_annual_percent": 5.07,
+   "revenue_ruling": "Rev. Rul. 2023-13",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2023-09",
+   "short_term_afr_annual_percent": 5.12,
+   "revenue_ruling": "Rev. Rul. 2023-16",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2023-10",
+   "short_term_afr_annual_percent": 5.22,
+   "revenue_ruling": "Rev. Rul. 2023-18",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2023-11",
+   "short_term_afr_annual_percent": 5.3,
+   "revenue_ruling": "Rev. Rul. 2023-20",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2023-12",
+   "short_term_afr_annual_percent": 5.26,
+   "revenue_ruling": "Rev. Rul. 2023-21",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2024-01",
+   "short_term_afr_annual_percent": 5.0,
+   "revenue_ruling": "Rev. Rul. 2024-2",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2024-02",
+   "short_term_afr_annual_percent": 4.68,
+   "revenue_ruling": "Rev. Rul. 2024-3",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2024-03",
+   "short_term_afr_annual_percent": 4.71,
+   "revenue_ruling": "Rev. Rul. 2024-4",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2024-04",
+   "short_term_afr_annual_percent": 4.89,
+   "revenue_ruling": "Rev. Rul. 2024-7",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2024-05",
+   "short_term_afr_annual_percent": 4.97,
+   "revenue_ruling": "Rev. Rul. 2024-9",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2024-06",
+   "short_term_afr_annual_percent": 5.12,
+   "revenue_ruling": "Rev. Rul. 2024-12",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2024-07",
+   "short_term_afr_annual_percent": 5.06,
+   "revenue_ruling": "Rev. Rul. 2024-13",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2024-08",
+   "short_term_afr_annual_percent": 4.95,
+   "revenue_ruling": "Rev. Rul. 2024-15",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2024-09",
+   "short_term_afr_annual_percent": 4.57,
+   "revenue_ruling": "Rev. Rul. 2024-17",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2024-10",
+   "short_term_afr_annual_percent": 4.21,
+   "revenue_ruling": "Rev. Rul. 2024-21",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2024-11",
+   "short_term_afr_annual_percent": 4.0,
+   "revenue_ruling": "Rev. Rul. 2024-24",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2024-12",
+   "short_term_afr_annual_percent": 4.3,
+   "revenue_ruling": "Rev. Rul. 2024-26",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2025-01",
+   "short_term_afr_annual_percent": 4.33,
+   "revenue_ruling": "Rev. Rul. 2025-1",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2025-02",
+   "short_term_afr_annual_percent": 4.34,
+   "revenue_ruling": "Rev. Rul. 2025-5",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2025-03",
+   "short_term_afr_annual_percent": 4.31,
+   "revenue_ruling": "Rev. Rul. 2025-6",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2025-04",
+   "short_term_afr_annual_percent": 4.16,
+   "revenue_ruling": "Rev. Rul. 2025-8",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2025-05",
+   "short_term_afr_annual_percent": 4.05,
+   "revenue_ruling": "Rev. Rul. 2025-10",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2025-06",
+   "short_term_afr_annual_percent": 4.0,
+   "revenue_ruling": "Rev. Rul. 2025-12",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2025-07",
+   "short_term_afr_annual_percent": 4.12,
+   "revenue_ruling": "Rev. Rul. 2025-13",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2025-08",
+   "short_term_afr_annual_percent": 4.03,
+   "revenue_ruling": "Rev. Rul. 2025-14",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2025-09",
+   "short_term_afr_annual_percent": 4.0,
+   "revenue_ruling": "Rev. Rul. 2025-17",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2025-10",
+   "short_term_afr_annual_percent": 3.81,
+   "revenue_ruling": "Rev. Rul. 2025-19",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2025-11",
+   "short_term_afr_annual_percent": 3.69,
+   "revenue_ruling": "Rev. Rul. 2025-21",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2025-12",
+   "short_term_afr_annual_percent": 3.66,
+   "revenue_ruling": "Rev. Rul. 2025-24",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2026-01",
+   "short_term_afr_annual_percent": 3.63,
+   "revenue_ruling": "Rev. Rul. 2026-2",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2026-02",
+   "short_term_afr_annual_percent": 3.56,
+   "revenue_ruling": "Rev. Rul. 2026-3",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2026-03",
+   "short_term_afr_annual_percent": 3.59,
+   "revenue_ruling": "Rev. Rul. 2026-6",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2026-04",
+   "short_term_afr_annual_percent": 3.59,
+   "revenue_ruling": "Rev. Rul. 2026-7",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2026-05",
+   "short_term_afr_annual_percent": 3.82,
+   "revenue_ruling": "Rev. Rul. 2026-9",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2026-06",
+   "short_term_afr_annual_percent": 3.85,
+   "revenue_ruling": "Rev. Rul. 2026-11",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2026-07",
+   "short_term_afr_annual_percent": 4.0,
+   "revenue_ruling": "Rev. Rul. 2026-12",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2026-08",
+   "short_term_afr_annual_percent": 4.1,
+   "revenue_ruling": "Rev. Rul. 2026-13",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2026-09",
+   "short_term_afr_annual_percent": 4.18,
+   "revenue_ruling": "Rev. Rul. 2026-17",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2026-10",
+   "short_term_afr_annual_percent": 4.25,
+   "revenue_ruling": "Rev. Rul. 2026-19",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  },
+  {
+   "month": "2026-11",
+   "short_term_afr_annual_percent": 4.67,
+   "revenue_ruling": "Rev. Rul. 2026-21",
+   "source_url": "https://installmentsalecalculator.com/data/afr-and-7520-rate-history/"
+  }
+ ],
+ "penalty_rules": [
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6651a1",
+   "penalty_name": "Failure to file return",
+   "base_description": "Net amount of tax required to be shown on the return (reduced by timely payments and credits) - IRC 6651(b)(1)",
+   "rate_shape": "per_month_or_part",
+   "rate": "5% per month or fraction thereof",
+   "cap": "25%",
+   "minimum_amount": "",
+   "minimum_rule": "If return filed more than 60 days after due date (with extensions): not less than the lesser of the versioned minimum_amount (see 6651a1_min rows) or 100% of tax required to be shown",
+   "stacking_or_offset_rule": "Reduced by 6651(a)(2) amount for any month both apply - IRC 6651(c)(1); combined effective rate 4.5%/month for first 5 months; offset may not reduce below the 60-day minimum",
+   "interest_on_penalty_start": "Return due date including extensions - IRC 6601(e)(2)(B)",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "IRC 6651(a)(1), (b)(1), (c)(1)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6651"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6651a1_min_due2020",
+   "penalty_name": "Failure to file - 60-day minimum (versioned)",
+   "base_description": "Minimum addition under IRC 6651(a) last sentence for returns due in calendar year 2020",
+   "rate_shape": "flat",
+   "rate": "",
+   "cap": "",
+   "minimum_amount": 435,
+   "minimum_rule": "Lesser of minimum_amount or 100% of tax required to be shown on the return; applies only when return is filed more than 60 days after the due date (determined with extensions)",
+   "stacking_or_offset_rule": "Floor survives the 6651(c)(1) offset - IRC 6651(c)(1) last sentence",
+   "interest_on_penalty_start": "Return due date including extensions - IRC 6601(e)(2)(B)",
+   "effective_from": "2020-01-01",
+   "effective_to": "2020-12-31",
+   "authority_cite": "IRC 6651(a), (j); IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6651a1_min_due2021",
+   "penalty_name": "Failure to file - 60-day minimum (versioned)",
+   "base_description": "Minimum addition under IRC 6651(a) last sentence for returns due in calendar year 2021",
+   "rate_shape": "flat",
+   "rate": "",
+   "cap": "",
+   "minimum_amount": 435,
+   "minimum_rule": "Lesser of minimum_amount or 100% of tax required to be shown on the return; applies only when return is filed more than 60 days after the due date (determined with extensions)",
+   "stacking_or_offset_rule": "Floor survives the 6651(c)(1) offset - IRC 6651(c)(1) last sentence",
+   "interest_on_penalty_start": "Return due date including extensions - IRC 6601(e)(2)(B)",
+   "effective_from": "2021-01-01",
+   "effective_to": "2021-12-31",
+   "authority_cite": "IRC 6651(a), (j); IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6651a1_min_due2022",
+   "penalty_name": "Failure to file - 60-day minimum (versioned)",
+   "base_description": "Minimum addition under IRC 6651(a) last sentence for returns due in calendar year 2022",
+   "rate_shape": "flat",
+   "rate": "",
+   "cap": "",
+   "minimum_amount": 435,
+   "minimum_rule": "Lesser of minimum_amount or 100% of tax required to be shown on the return; applies only when return is filed more than 60 days after the due date (determined with extensions)",
+   "stacking_or_offset_rule": "Floor survives the 6651(c)(1) offset - IRC 6651(c)(1) last sentence",
+   "interest_on_penalty_start": "Return due date including extensions - IRC 6601(e)(2)(B)",
+   "effective_from": "2022-01-01",
+   "effective_to": "2022-12-31",
+   "authority_cite": "IRC 6651(a), (j); IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6651a1_min_due2023",
+   "penalty_name": "Failure to file - 60-day minimum (versioned)",
+   "base_description": "Minimum addition under IRC 6651(a) last sentence for returns due in calendar year 2023",
+   "rate_shape": "flat",
+   "rate": "",
+   "cap": "",
+   "minimum_amount": 450,
+   "minimum_rule": "Lesser of minimum_amount or 100% of tax required to be shown on the return; applies only when return is filed more than 60 days after the due date (determined with extensions)",
+   "stacking_or_offset_rule": "Floor survives the 6651(c)(1) offset - IRC 6651(c)(1) last sentence",
+   "interest_on_penalty_start": "Return due date including extensions - IRC 6601(e)(2)(B)",
+   "effective_from": "2023-01-01",
+   "effective_to": "2023-12-31",
+   "authority_cite": "IRC 6651(a), (j); IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6651a1_min_due2024",
+   "penalty_name": "Failure to file - 60-day minimum (versioned)",
+   "base_description": "Minimum addition under IRC 6651(a) last sentence for returns due in calendar year 2024",
+   "rate_shape": "flat",
+   "rate": "",
+   "cap": "",
+   "minimum_amount": 485,
+   "minimum_rule": "Lesser of minimum_amount or 100% of tax required to be shown on the return; applies only when return is filed more than 60 days after the due date (determined with extensions)",
+   "stacking_or_offset_rule": "Floor survives the 6651(c)(1) offset - IRC 6651(c)(1) last sentence",
+   "interest_on_penalty_start": "Return due date including extensions - IRC 6601(e)(2)(B)",
+   "effective_from": "2024-01-01",
+   "effective_to": "2024-12-31",
+   "authority_cite": "IRC 6651(a), (j); IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6651a1_min_due2025",
+   "penalty_name": "Failure to file - 60-day minimum (versioned)",
+   "base_description": "Minimum addition under IRC 6651(a) last sentence for returns due in calendar year 2025",
+   "rate_shape": "flat",
+   "rate": "",
+   "cap": "",
+   "minimum_amount": 510,
+   "minimum_rule": "Lesser of minimum_amount or 100% of tax required to be shown on the return; applies only when return is filed more than 60 days after the due date (determined with extensions)",
+   "stacking_or_offset_rule": "Floor survives the 6651(c)(1) offset - IRC 6651(c)(1) last sentence",
+   "interest_on_penalty_start": "Return due date including extensions - IRC 6601(e)(2)(B)",
+   "effective_from": "2025-01-01",
+   "effective_to": "2025-12-31",
+   "authority_cite": "IRC 6651(a), (j); IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6651a1_min_due2026",
+   "penalty_name": "Failure to file - 60-day minimum (versioned)",
+   "base_description": "Minimum addition under IRC 6651(a) last sentence for returns due in calendar year 2026",
+   "rate_shape": "flat",
+   "rate": "",
+   "cap": "",
+   "minimum_amount": 525,
+   "minimum_rule": "Lesser of minimum_amount or 100% of tax required to be shown on the return; applies only when return is filed more than 60 days after the due date (determined with extensions)",
+   "stacking_or_offset_rule": "Floor survives the 6651(c)(1) offset - IRC 6651(c)(1) last sentence",
+   "interest_on_penalty_start": "Return due date including extensions - IRC 6601(e)(2)(B)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "authority_cite": "IRC 6651(a), (j); Rev. Proc. 2025-32",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6651a1_min_due2027",
+   "penalty_name": "Failure to file - 60-day minimum (versioned)",
+   "base_description": "Minimum addition under IRC 6651(a) last sentence for returns due in calendar year 2027",
+   "rate_shape": "flat",
+   "rate": "",
+   "cap": "",
+   "minimum_amount": 535,
+   "minimum_rule": "Lesser of minimum_amount or 100% of tax required to be shown on the return; applies only when return is filed more than 60 days after the due date (determined with extensions)",
+   "stacking_or_offset_rule": "Floor survives the 6651(c)(1) offset - IRC 6651(c)(1) last sentence",
+   "interest_on_penalty_start": "Return due date including extensions - IRC 6601(e)(2)(B)",
+   "effective_from": "2027-01-01",
+   "effective_to": "2027-12-31",
+   "authority_cite": "IRC 6651(a), (j); Rev. Proc. 2025-32",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6651f",
+   "penalty_name": "Fraudulent failure to file",
+   "base_description": "Net amount of tax required to be shown on the return - IRC 6651(b)(1) as applied through 6651(a)(1)",
+   "rate_shape": "per_month_or_part",
+   "rate": "15% per month or fraction thereof",
+   "cap": "75%",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "Substitutes for 6651(a)(1) rates when failure is fraudulent; 6651(c)(1) offset applies to the substituted addition",
+   "interest_on_penalty_start": "Return due date including extensions - IRC 6601(e)(2)(B) (imposed under 6651(a)(1) as modified by 6651(f))",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "IRC 6651(f)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6651"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6651a2",
+   "penalty_name": "Failure to pay tax shown on return",
+   "base_description": "Amount shown as tax on return, reduced month-by-month by payments and credits - IRC 6651(b)(2)",
+   "rate_shape": "per_month_or_part",
+   "rate": "0.5% per month or fraction thereof",
+   "cap": "25%",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "Offsets 6651(a)(1) for overlapping months - IRC 6651(c)(1); rate variants: 6651a2_ia (0.25%) and 6651a2_levy (1%)",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "IRC 6651(a)(2), (b)(2)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6651"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6651a2_ia",
+   "penalty_name": "Failure to pay - installment agreement rate (individuals)",
+   "base_description": "Same base as 6651a2; individual must have filed the return on or before its due date (with extensions)",
+   "rate_shape": "per_month_or_part",
+   "rate": "0.25% per month or fraction thereof",
+   "cap": "25%",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "Applies only for months during which an IRC 6159 installment agreement is in effect",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "IRC 6651(h)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6651"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6651a2_levy",
+   "penalty_name": "Failure to pay - increased rate after levy notice",
+   "base_description": "Same base as 6651a2 / 6651a3",
+   "rate_shape": "per_month_or_part",
+   "rate": "1% per month or fraction thereof",
+   "cap": "25%",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "Applies to months beginning after the earlier of (a) 10 days after notice under IRC 6331(d) (intent to levy) or (b) notice and demand for immediate payment under IRC 6331(a)",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "IRC 6651(d)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6651"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6651a3",
+   "penalty_name": "Failure to pay amount stated in notice and demand",
+   "base_description": "Amount of tax stated in notice and demand, reduced by payments made before the month - IRC 6651(b)(3)",
+   "rate_shape": "per_month_or_part",
+   "rate": "0.5% per month or fraction thereof (1% after levy notice per 6651(d))",
+   "cap": "25%",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "Runs only if amount not paid within 21 calendar days of notice and demand (10 business days if >= $100,000)",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "IRC 6651(a)(3), (b)(3)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6651"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6651c1_offset",
+   "penalty_name": "Combined-penalty offset rule (not a standalone penalty)",
+   "base_description": "Interaction rule between 6651(a)(1) and 6651(a)(2)/(a)(3)",
+   "rate_shape": "per_month_or_part",
+   "rate": "",
+   "cap": "",
+   "minimum_amount": "",
+   "minimum_rule": "Offset may not reduce 6651(a)(1) below the 60-day minimum amount",
+   "stacking_or_offset_rule": "For any month to which both 6651(a)(1) and 6651(a)(2) apply, the (a)(1) addition is reduced by the (a)(2) addition for that month",
+   "interest_on_penalty_start": "",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "IRC 6651(c)(1)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6651"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6662",
+   "penalty_name": "Accuracy-related penalty",
+   "base_description": "Portion of underpayment attributable to negligence, disregard of rules, substantial understatement, substantial valuation misstatement, etc. - IRC 6662(b)",
+   "rate_shape": "percent_of_understatement",
+   "rate": "20%",
+   "cap": "No aggregate cap; applies per portion of underpayment",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "No stacking with 6663 on the same portion of underpayment - IRC 6663(b) coordination; substantial-understatement thresholds in 6662(d)",
+   "interest_on_penalty_start": "Return due date including extensions - IRC 6601(e)(2)(B) (chapter 68 subchapter A part II penalty)",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "IRC 6662(a), (b)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6662"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6662h",
+   "penalty_name": "Accuracy-related penalty - gross valuation misstatement",
+   "base_description": "Portion of underpayment attributable to a gross valuation misstatement (value/ basis claimed 200%+ of correct amount, and related thresholds) - IRC 6662(e), (g), (h)",
+   "rate_shape": "percent_of_understatement",
+   "rate": "40%",
+   "cap": "No aggregate cap",
+   "minimum_amount": "",
+   "minimum_rule": "No penalty if portion of underpayment attributable to the misstatement does not exceed $5,000 ($10,000 for most corporations) - IRC 6662(h)(2) / (e)(2)",
+   "stacking_or_offset_rule": "Replaces the 20% rate for the gross-misstatement portion",
+   "interest_on_penalty_start": "Return due date including extensions - IRC 6601(e)(2)(B) (chapter 68 subchapter A part II penalty)",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "IRC 6662(h)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6662"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6663",
+   "penalty_name": "Fraud penalty",
+   "base_description": "Portion of underpayment attributable to fraud",
+   "rate_shape": "percent_of_understatement",
+   "rate": "75%",
+   "cap": "No aggregate cap",
+   "minimum_amount": "",
+   "minimum_rule": "Once any portion is shown attributable to fraud, entire underpayment treated as attributable to fraud unless taxpayer establishes otherwise - IRC 6663(b)",
+   "stacking_or_offset_rule": "Portion subject to 6663 is excluded from 6662 - IRC 6662 coordination via 6663(b)",
+   "interest_on_penalty_start": "Return due date including extensions - IRC 6601(e)(2)(B) (chapter 68 subchapter A part II penalty)",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "IRC 6663(a), (b)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6663"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6654",
+   "penalty_name": "Estimated tax addition - individuals",
+   "base_description": "Underpayment of each required installment (Form 2210 method); payments credited to earliest unpaid installment - IRC 6654(b)",
+   "rate_shape": "interest_like",
+   "rate": "IRC 6621 underpayment rate in effect for the period (quarterly; see rates.csv)",
+   "cap": "Runs from installment due date to earlier of payment date or April 15 of following year",
+   "minimum_amount": "",
+   "minimum_rule": "No addition if total tax less credits/withholding is under $1,000 - IRC 6654(e)(1); safe harbors in 6654(d)",
+   "stacking_or_offset_rule": "Computed like interest but NOT compounded daily - IRC 6622(b) exception; no interest is charged on the addition itself - IRC 6601(h)",
+   "interest_on_penalty_start": "n/a - the addition is itself interest-like and bears no interest",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "IRC 6654; IRC 6622(b)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6622"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6655",
+   "penalty_name": "Estimated tax addition - corporations",
+   "base_description": "Underpayment of each required installment of corporate estimated tax (Form 2220 method) - IRC 6655(b)",
+   "rate_shape": "interest_like",
+   "rate": "IRC 6621 underpayment rate in effect for the period (large corporations: 6621(c) rate where applicable)",
+   "cap": "Runs from installment due date to filing/payment cutoff under 6655(b)(2)",
+   "minimum_amount": "",
+   "minimum_rule": "No addition if tax is under $500 - IRC 6655(f)(1)",
+   "stacking_or_offset_rule": "Computed like interest but NOT compounded daily - IRC 6622(b) exception; no interest on the addition itself - IRC 6601(h)",
+   "interest_on_penalty_start": "n/a - the addition is itself interest-like and bears no interest",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "IRC 6655; IRC 6622(b)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/6622"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6698_due2020",
+   "penalty_name": "Failure to file partnership return (versioned amount)",
+   "base_description": "Per person who was a partner at any time during the tax year; returns due in calendar year 2020",
+   "rate_shape": "per_partner_per_month",
+   "rate": "$205 per partner per month or fraction thereof",
+   "cap": "12 months",
+   "minimum_amount": "",
+   "minimum_rule": "Applies even if the entity owes no tax",
+   "stacking_or_offset_rule": "Separate from any IRC 6651 addition on tax due at entity level",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2020-01-01",
+   "effective_to": "2020-12-31",
+   "authority_cite": "IRC 6698; IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6698_due2021",
+   "penalty_name": "Failure to file partnership return (versioned amount)",
+   "base_description": "Per person who was a partner at any time during the tax year; returns due in calendar year 2021",
+   "rate_shape": "per_partner_per_month",
+   "rate": "$210 per partner per month or fraction thereof",
+   "cap": "12 months",
+   "minimum_amount": "",
+   "minimum_rule": "Applies even if the entity owes no tax",
+   "stacking_or_offset_rule": "Separate from any IRC 6651 addition on tax due at entity level",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2021-01-01",
+   "effective_to": "2021-12-31",
+   "authority_cite": "IRC 6698; IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6698_due2022",
+   "penalty_name": "Failure to file partnership return (versioned amount)",
+   "base_description": "Per person who was a partner at any time during the tax year; returns due in calendar year 2022",
+   "rate_shape": "per_partner_per_month",
+   "rate": "$210 per partner per month or fraction thereof",
+   "cap": "12 months",
+   "minimum_amount": "",
+   "minimum_rule": "Applies even if the entity owes no tax",
+   "stacking_or_offset_rule": "Separate from any IRC 6651 addition on tax due at entity level",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2022-01-01",
+   "effective_to": "2022-12-31",
+   "authority_cite": "IRC 6698; IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6698_due2023",
+   "penalty_name": "Failure to file partnership return (versioned amount)",
+   "base_description": "Per person who was a partner at any time during the tax year; returns due in calendar year 2023",
+   "rate_shape": "per_partner_per_month",
+   "rate": "$220 per partner per month or fraction thereof",
+   "cap": "12 months",
+   "minimum_amount": "",
+   "minimum_rule": "Applies even if the entity owes no tax",
+   "stacking_or_offset_rule": "Separate from any IRC 6651 addition on tax due at entity level",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2023-01-01",
+   "effective_to": "2023-12-31",
+   "authority_cite": "IRC 6698; IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6698_due2024",
+   "penalty_name": "Failure to file partnership return (versioned amount)",
+   "base_description": "Per person who was a partner at any time during the tax year; returns due in calendar year 2024",
+   "rate_shape": "per_partner_per_month",
+   "rate": "$235 per partner per month or fraction thereof",
+   "cap": "12 months",
+   "minimum_amount": "",
+   "minimum_rule": "Applies even if the entity owes no tax",
+   "stacking_or_offset_rule": "Separate from any IRC 6651 addition on tax due at entity level",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2024-01-01",
+   "effective_to": "2024-12-31",
+   "authority_cite": "IRC 6698; IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6698_due2025",
+   "penalty_name": "Failure to file partnership return (versioned amount)",
+   "base_description": "Per person who was a partner at any time during the tax year; returns due in calendar year 2025",
+   "rate_shape": "per_partner_per_month",
+   "rate": "$245 per partner per month or fraction thereof",
+   "cap": "12 months",
+   "minimum_amount": "",
+   "minimum_rule": "Applies even if the entity owes no tax",
+   "stacking_or_offset_rule": "Separate from any IRC 6651 addition on tax due at entity level",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2025-01-01",
+   "effective_to": "2025-12-31",
+   "authority_cite": "IRC 6698; IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6698_due2026",
+   "penalty_name": "Failure to file partnership return (versioned amount)",
+   "base_description": "Per person who was a partner at any time during the tax year; returns due in calendar year 2026",
+   "rate_shape": "per_partner_per_month",
+   "rate": "$255 per partner per month or fraction thereof",
+   "cap": "12 months",
+   "minimum_amount": "",
+   "minimum_rule": "Applies even if the entity owes no tax",
+   "stacking_or_offset_rule": "Separate from any IRC 6651 addition on tax due at entity level",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "authority_cite": "IRC 6698; Rev. Proc. 2025-32",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6698_due2027",
+   "penalty_name": "Failure to file partnership return (versioned amount)",
+   "base_description": "Per person who was a partner at any time during the tax year; returns due in calendar year 2027",
+   "rate_shape": "per_partner_per_month",
+   "rate": "$260 per partner per month or fraction thereof",
+   "cap": "12 months",
+   "minimum_amount": "",
+   "minimum_rule": "Applies even if the entity owes no tax",
+   "stacking_or_offset_rule": "Separate from any IRC 6651 addition on tax due at entity level",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2027-01-01",
+   "effective_to": "2027-12-31",
+   "authority_cite": "IRC 6698; Rev. Proc. 2025-32",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6699_due2020",
+   "penalty_name": "Failure to file S corporation return (versioned amount)",
+   "base_description": "Per person who was a shareholder at any time during the tax year; returns due in calendar year 2020",
+   "rate_shape": "per_partner_per_month",
+   "rate": "$205 per shareholder per month or fraction thereof",
+   "cap": "12 months",
+   "minimum_amount": "",
+   "minimum_rule": "Applies even if the entity owes no tax",
+   "stacking_or_offset_rule": "Separate from any IRC 6651 addition on tax due at entity level",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2020-01-01",
+   "effective_to": "2020-12-31",
+   "authority_cite": "IRC 6699; IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6699_due2021",
+   "penalty_name": "Failure to file S corporation return (versioned amount)",
+   "base_description": "Per person who was a shareholder at any time during the tax year; returns due in calendar year 2021",
+   "rate_shape": "per_partner_per_month",
+   "rate": "$210 per shareholder per month or fraction thereof",
+   "cap": "12 months",
+   "minimum_amount": "",
+   "minimum_rule": "Applies even if the entity owes no tax",
+   "stacking_or_offset_rule": "Separate from any IRC 6651 addition on tax due at entity level",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2021-01-01",
+   "effective_to": "2021-12-31",
+   "authority_cite": "IRC 6699; IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6699_due2022",
+   "penalty_name": "Failure to file S corporation return (versioned amount)",
+   "base_description": "Per person who was a shareholder at any time during the tax year; returns due in calendar year 2022",
+   "rate_shape": "per_partner_per_month",
+   "rate": "$210 per shareholder per month or fraction thereof",
+   "cap": "12 months",
+   "minimum_amount": "",
+   "minimum_rule": "Applies even if the entity owes no tax",
+   "stacking_or_offset_rule": "Separate from any IRC 6651 addition on tax due at entity level",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2022-01-01",
+   "effective_to": "2022-12-31",
+   "authority_cite": "IRC 6699; IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6699_due2023",
+   "penalty_name": "Failure to file S corporation return (versioned amount)",
+   "base_description": "Per person who was a shareholder at any time during the tax year; returns due in calendar year 2023",
+   "rate_shape": "per_partner_per_month",
+   "rate": "$220 per shareholder per month or fraction thereof",
+   "cap": "12 months",
+   "minimum_amount": "",
+   "minimum_rule": "Applies even if the entity owes no tax",
+   "stacking_or_offset_rule": "Separate from any IRC 6651 addition on tax due at entity level",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2023-01-01",
+   "effective_to": "2023-12-31",
+   "authority_cite": "IRC 6699; IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6699_due2024",
+   "penalty_name": "Failure to file S corporation return (versioned amount)",
+   "base_description": "Per person who was a shareholder at any time during the tax year; returns due in calendar year 2024",
+   "rate_shape": "per_partner_per_month",
+   "rate": "$235 per shareholder per month or fraction thereof",
+   "cap": "12 months",
+   "minimum_amount": "",
+   "minimum_rule": "Applies even if the entity owes no tax",
+   "stacking_or_offset_rule": "Separate from any IRC 6651 addition on tax due at entity level",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2024-01-01",
+   "effective_to": "2024-12-31",
+   "authority_cite": "IRC 6699; IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6699_due2025",
+   "penalty_name": "Failure to file S corporation return (versioned amount)",
+   "base_description": "Per person who was a shareholder at any time during the tax year; returns due in calendar year 2025",
+   "rate_shape": "per_partner_per_month",
+   "rate": "$245 per shareholder per month or fraction thereof",
+   "cap": "12 months",
+   "minimum_amount": "",
+   "minimum_rule": "Applies even if the entity owes no tax",
+   "stacking_or_offset_rule": "Separate from any IRC 6651 addition on tax due at entity level",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2025-01-01",
+   "effective_to": "2025-12-31",
+   "authority_cite": "IRC 6699; IRS Failure to File Penalty page",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6699_due2026",
+   "penalty_name": "Failure to file S corporation return (versioned amount)",
+   "base_description": "Per person who was a shareholder at any time during the tax year; returns due in calendar year 2026",
+   "rate_shape": "per_partner_per_month",
+   "rate": "$255 per shareholder per month or fraction thereof",
+   "cap": "12 months",
+   "minimum_amount": "",
+   "minimum_rule": "Applies even if the entity owes no tax",
+   "stacking_or_offset_rule": "Separate from any IRC 6651 addition on tax due at entity level",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "authority_cite": "IRC 6699; Rev. Proc. 2025-32",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6699_due2027",
+   "penalty_name": "Failure to file S corporation return (versioned amount)",
+   "base_description": "Per person who was a shareholder at any time during the tax year; returns due in calendar year 2027",
+   "rate_shape": "per_partner_per_month",
+   "rate": "$260 per shareholder per month or fraction thereof",
+   "cap": "12 months",
+   "minimum_amount": "",
+   "minimum_rule": "Applies even if the entity owes no tax",
+   "stacking_or_offset_rule": "Separate from any IRC 6651 addition on tax due at entity level",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2027-01-01",
+   "effective_to": "2027-12-31",
+   "authority_cite": "IRC 6699; Rev. Proc. 2025-32",
+   "source_url": "https://www.irs.gov/payments/failure-to-file-penalty"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6721_due2026_tier1",
+   "penalty_name": "Failure to file correct information returns - corrected within 30 days",
+   "base_description": "Per information return / payee statement due in calendar year 2026, corrected within 30 days of required filing date",
+   "rate_shape": "per_form",
+   "rate": "$60 per return",
+   "cap": "$683,000 per calendar year ($239,000 for small filers with average gross receipts <= $5,000,000)",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "6721 (filing with IRS) and 6722 (furnishing to payee) are separate penalties and can both apply to the same failure",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "authority_cite": "IRC 6721; Rev. Proc. 2024-40; IRM 20.1.7",
+   "source_url": "https://www.irs.gov/payments/information-return-penalties"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6721_due2026_tier2",
+   "penalty_name": "Failure to file correct information returns - corrected by August 1",
+   "base_description": "Per information return / payee statement due in calendar year 2026, corrected after 30 days but on or before August 1",
+   "rate_shape": "per_form",
+   "rate": "$130 per return",
+   "cap": "$2,049,000 per calendar year ($683,000 small filers)",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "See tier1 stacking note",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "authority_cite": "IRC 6721; Rev. Proc. 2024-40; IRM 20.1.7",
+   "source_url": "https://www.irs.gov/payments/information-return-penalties"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6721_due2026_tier3",
+   "penalty_name": "Failure to file correct information returns - corrected after August 1 or not corrected",
+   "base_description": "Per information return / payee statement due in calendar year 2026, corrected after August 1 or never corrected",
+   "rate_shape": "per_form",
+   "rate": "$340 per return",
+   "cap": "$4,098,500 per calendar year ($1,366,000 small filers)",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "See tier1 stacking note",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "authority_cite": "IRC 6721; Rev. Proc. 2024-40; IRM 20.1.7",
+   "source_url": "https://www.irs.gov/payments/information-return-penalties"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6721_due2026_id",
+   "penalty_name": "Failure to file correct information returns - intentional disregard",
+   "base_description": "Per information return / payee statement due in calendar year 2026 where failure is due to intentional disregard",
+   "rate_shape": "per_form",
+   "rate": "Greater of $680 per return or 10% of the aggregate amount required to be reported correctly (5% for certain returns, e.g., broker/partnership reporting under 6721(e)(2))",
+   "cap": "No annual maximum",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "No annual cap; de minimis and reasonable-cause exceptions (IRC 6724) do not apply to intentional disregard",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "authority_cite": "IRC 6721 (intentional disregard); Rev. Proc. 2024-40; IRM 20.1.7",
+   "source_url": "https://www.irs.gov/payments/information-return-penalties"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6722_due2026_tier1",
+   "penalty_name": "Failure to furnish correct payee statements - corrected within 30 days",
+   "base_description": "Per information return / payee statement due in calendar year 2026, corrected within 30 days of required filing date",
+   "rate_shape": "per_form",
+   "rate": "$60 per return",
+   "cap": "$683,000 per calendar year ($239,000 for small filers with average gross receipts <= $5,000,000)",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "6721 (filing with IRS) and 6722 (furnishing to payee) are separate penalties and can both apply to the same failure",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "authority_cite": "IRC 6722; Rev. Proc. 2024-40; IRM 20.1.7",
+   "source_url": "https://www.irs.gov/payments/information-return-penalties"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6722_due2026_tier2",
+   "penalty_name": "Failure to furnish correct payee statements - corrected by August 1",
+   "base_description": "Per information return / payee statement due in calendar year 2026, corrected after 30 days but on or before August 1",
+   "rate_shape": "per_form",
+   "rate": "$130 per return",
+   "cap": "$2,049,000 per calendar year ($683,000 small filers)",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "See tier1 stacking note",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "authority_cite": "IRC 6722; Rev. Proc. 2024-40; IRM 20.1.7",
+   "source_url": "https://www.irs.gov/payments/information-return-penalties"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6722_due2026_tier3",
+   "penalty_name": "Failure to furnish correct payee statements - corrected after August 1 or not corrected",
+   "base_description": "Per information return / payee statement due in calendar year 2026, corrected after August 1 or never corrected",
+   "rate_shape": "per_form",
+   "rate": "$340 per return",
+   "cap": "$4,098,500 per calendar year ($1,366,000 small filers)",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "See tier1 stacking note",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "authority_cite": "IRC 6722; Rev. Proc. 2024-40; IRM 20.1.7",
+   "source_url": "https://www.irs.gov/payments/information-return-penalties"
+  },
+  {
+   "jurisdiction": "US",
+   "penalty_id": "6722_due2026_id",
+   "penalty_name": "Failure to furnish correct payee statements - intentional disregard",
+   "base_description": "Per information return / payee statement due in calendar year 2026 where failure is due to intentional disregard",
+   "rate_shape": "per_form",
+   "rate": "Greater of $680 per return or 10% of the aggregate amount required to be reported correctly (5% for certain returns, e.g., broker/partnership reporting under 6721(e)(2))",
+   "cap": "No annual maximum",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "No annual cap; de minimis and reasonable-cause exceptions (IRC 6724) do not apply to intentional disregard",
+   "interest_on_penalty_start": "Only if unpaid 21 calendar days after notice and demand (10 business days if amount >= $100,000); interest runs from notice-and-demand date - IRC 6601(e)(2)(A)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "authority_cite": "IRC 6722 (intentional disregard); Rev. Proc. 2024-40; IRM 20.1.7",
+   "source_url": "https://www.irs.gov/payments/information-return-penalties"
+  },
+  {
+   "jurisdiction": "PR",
+   "penalty_id": "PR_6030_11_ftf",
+   "penalty_name": "Failure to file return (late filing penalty)",
+   "base_description": "Total tax shown on the return (income tax; Puerto Rico Internal Revenue Code of 2011)",
+   "rate_shape": "per_month_or_part",
+   "rate": "5% if failure is not more than 30 days, plus 10% for each additional 30 days or fraction thereof",
+   "cap": "25%",
+   "minimum_amount": "",
+   "minimum_rule": "Reasonable-cause exception applies",
+   "stacking_or_offset_rule": "Progressive (stepped) rate, not a flat 5%/month; interest and surcharges under Sec. 6030.02 apply separately",
+   "interest_on_penalty_start": "Not verified - see Missing list",
+   "effective_from": "2011-01-01",
+   "effective_to": "",
+   "authority_cite": "Puerto Rico Internal Revenue Code of 2011 (Act 1-2011), Sec. 6030.11(a)",
+   "source_url": "https://hacienda.pr.gov/sites/default/files/inst_nonprofit_2025.pdf"
+  },
+  {
+   "jurisdiction": "PR",
+   "penalty_id": "PR_6030_02_surcharge",
+   "penalty_name": "Late payment surcharge (recargo)",
+   "base_description": "Tax balance not paid by its due date",
+   "rate_shape": "flat",
+   "rate": "5% of amount due if delay exceeds 30 days but not 60 days; 10% of amount due if delay exceeds 60 days",
+   "cap": "10%",
+   "minimum_amount": "",
+   "minimum_rule": "No surcharge if delay is 30 days or less",
+   "stacking_or_offset_rule": "Applies in every case where interest under Sec. 6030.02 is imposed; stacks on top of the 10% annual interest",
+   "interest_on_penalty_start": "Not verified - see Missing list",
+   "effective_from": "2011-01-01",
+   "effective_to": "",
+   "authority_cite": "Puerto Rico Internal Revenue Code of 2011 (Act 1-2011), Sec. 6030.02",
+   "source_url": "https://hacienda.pr.gov/sites/default/files/inst_nonprofit_2025.pdf"
+  },
+  {
+   "jurisdiction": "PR",
+   "penalty_id": "PR_6030_03_accuracy",
+   "penalty_name": "Accuracy-type additions (negligence / substantial understatement / valuation)",
+   "base_description": "Portion of deficiency attributable to negligence, substantial understatement, or valuation misstatement",
+   "rate_shape": "percent_of_understatement",
+   "rate": "20% (40% for gross valuation misstatements)",
+   "cap": "",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "SECONDARY SOURCE - verify against the Code text before production use (see README)",
+   "interest_on_penalty_start": "Not verified - see Missing list",
+   "effective_from": "2011-01-01",
+   "effective_to": "",
+   "authority_cite": "Puerto Rico Internal Revenue Code of 2011 (Act 1-2011), Sec. 6030.03(a)",
+   "source_url": "https://www.transferpricing.us/regs/local/pr"
+  },
+  {
+   "jurisdiction": "GU",
+   "penalty_id": "GU_6651a1_mirror",
+   "penalty_name": "Failure to file return (mirror of IRC 6651(a)(1))",
+   "base_description": "Mirror-code jurisdiction: IRC 6651(a)(1) applies as local income tax law; administered by Guam Department of Revenue and Taxation",
+   "rate_shape": "per_month_or_part",
+   "rate": "5% per month or fraction thereof",
+   "cap": "25%",
+   "minimum_amount": "",
+   "minimum_rule": "Mirror of current IRC 6651(a) 60-day minimum (see US 6651a1_min rows)",
+   "stacking_or_offset_rule": "Mirror of IRC 6651(c)(1) offset",
+   "interest_on_penalty_start": "Mirror of IRC 6601(e)(2)(B) - return due date including extensions",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "48 U.S.C. 1421i (Guam Territorial Income Tax mirrors the IRC)",
+   "source_url": "https://www.guamtax.com/help/pops/instructions.html"
+  },
+  {
+   "jurisdiction": "GU",
+   "penalty_id": "GU_6651a2_mirror",
+   "penalty_name": "Failure to pay tax (mirror of IRC 6651(a)(2))",
+   "base_description": "Mirror-code jurisdiction: IRC 6651(a)(2) applies as local income tax law; administered by Guam Department of Revenue and Taxation",
+   "rate_shape": "per_month_or_part",
+   "rate": "0.5% per month or fraction thereof",
+   "cap": "25%",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "Mirror of IRC 6651(c)(1), (d), (h) rate variants",
+   "interest_on_penalty_start": "Mirror of IRC 6601(e)(2)(A) - notice and demand rule",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "48 U.S.C. 1421i (Guam Territorial Income Tax mirrors the IRC)",
+   "source_url": "https://www.guamtax.com/help/pops/instructions.html"
+  },
+  {
+   "jurisdiction": "VI",
+   "penalty_id": "VI_6651a1_mirror",
+   "penalty_name": "Failure to file return (mirror of IRC 6651(a)(1))",
+   "base_description": "Mirror-code jurisdiction: IRC 6651(a)(1) applies as local income tax law; administered by Virgin Islands Bureau of Internal Revenue",
+   "rate_shape": "per_month_or_part",
+   "rate": "5% per month or fraction thereof",
+   "cap": "25%",
+   "minimum_amount": "",
+   "minimum_rule": "Mirror of current IRC 6651(a) 60-day minimum (see US 6651a1_min rows)",
+   "stacking_or_offset_rule": "Mirror of IRC 6651(c)(1) offset",
+   "interest_on_penalty_start": "Mirror of IRC 6601(e)(2)(B) - return due date including extensions",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "48 U.S.C. 1397 (IRC applies as Virgin Islands income tax law)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/48/1397"
+  },
+  {
+   "jurisdiction": "VI",
+   "penalty_id": "VI_6651a2_mirror",
+   "penalty_name": "Failure to pay tax (mirror of IRC 6651(a)(2))",
+   "base_description": "Mirror-code jurisdiction: IRC 6651(a)(2) applies as local income tax law; administered by Virgin Islands Bureau of Internal Revenue",
+   "rate_shape": "per_month_or_part",
+   "rate": "0.5% per month or fraction thereof",
+   "cap": "25%",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "Mirror of IRC 6651(c)(1), (d), (h) rate variants",
+   "interest_on_penalty_start": "Mirror of IRC 6601(e)(2)(A) - notice and demand rule",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "48 U.S.C. 1397 (IRC applies as Virgin Islands income tax law)",
+   "source_url": "https://www.law.cornell.edu/uscode/text/48/1397"
+  },
+  {
+   "jurisdiction": "CNMI",
+   "penalty_id": "CNMI_6651a1_mirror",
+   "penalty_name": "Failure to file return (mirror of IRC 6651(a)(1))",
+   "base_description": "Mirror-code jurisdiction: IRC 6651(a)(1) applies as local income tax law; administered by CNMI Division of Revenue and Taxation",
+   "rate_shape": "per_month_or_part",
+   "rate": "5% per month or fraction thereof",
+   "cap": "25%",
+   "minimum_amount": "",
+   "minimum_rule": "Mirror of current IRC 6651(a) 60-day minimum (see US 6651a1_min rows)",
+   "stacking_or_offset_rule": "Mirror of IRC 6651(c)(1) offset",
+   "interest_on_penalty_start": "Mirror of IRC 6601(e)(2)(B) - return due date including extensions",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "Covenant Sec. 601 (48 U.S.C. 1801 note); 4 CMC 1701 et seq. (NMTIT mirrors the IRC); CNMI DRT Form OS-3705 instructions",
+   "source_url": "https://finance.gov.mp/division-forms/revenue-taxation/2009/2009-os-3705.pdf"
+  },
+  {
+   "jurisdiction": "CNMI",
+   "penalty_id": "CNMI_6651a2_mirror",
+   "penalty_name": "Failure to pay tax (mirror of IRC 6651(a)(2))",
+   "base_description": "Mirror-code jurisdiction: IRC 6651(a)(2) applies as local income tax law; administered by CNMI Division of Revenue and Taxation",
+   "rate_shape": "per_month_or_part",
+   "rate": "0.5% per month or fraction thereof",
+   "cap": "25%",
+   "minimum_amount": "",
+   "minimum_rule": "",
+   "stacking_or_offset_rule": "Mirror of IRC 6651(c)(1), (d), (h) rate variants",
+   "interest_on_penalty_start": "Mirror of IRC 6601(e)(2)(A) - notice and demand rule",
+   "effective_from": "",
+   "effective_to": "",
+   "authority_cite": "Covenant Sec. 601 (48 U.S.C. 1801 note); 4 CMC 1701 et seq. (NMTIT mirrors the IRC); CNMI DRT Form OS-3705 instructions",
+   "source_url": "https://finance.gov.mp/division-forms/revenue-taxation/2009/2009-os-3705.pdf"
+  }
+ ]
+}

@@ -1,0 +1,482 @@
+{
+ "pool": "Newsroom mixed-type stream (Tax Tips, Fact Sheets, Drop-ins, releases, other) — rotator queue source",
+ "retrieved": "2026-11-19",
+ "source_pages": "https://www.irs.gov/newsroom-index-search (all-types index, pages 110-115, ascending)",
+ "display_rule": "Snippet/title shown in the rotator is the IRS's own headline, verbatim (Paul, 2026-11-19).",
+ "window_rule": "Working array holds 25; initial fill is a random draw from the pool; at the end, push the next pool entry at the end and drop the first (Paul, 2026-11-19). Database query replaces the array later.",
+ "entries": [
+  {
+   "type": "Tax Tip",
+   "date": "2026-11-12",
+   "title": "What to know about filing a final tax return for someone who passed away",
+   "link": "!irs.gov/newsroom/what-to-know-about-filing-a-final-tax-return-for-someone-who-passed-away",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Fact Sheet",
+   "date": "2026-11-13",
+   "title": "Questions and answers about the Low-Income Communities Bonus Credit Amount Program",
+   "link": "!irs.gov/newsroom/questions-and-answers-about-the-low-income-communities-bonus-credit-amount-program",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Drop-in",
+   "date": "2026-11-16",
+   "title": "Security tip for tax pros: Use IRS Tax Pro Account",
+   "link": "!irs.gov/newsroom/security-tip-for-tax-pros-use-irs-tax-pro-account",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Tax Tip",
+   "date": "2026-11-17",
+   "title": "Education benefits that can help taxpayers save",
+   "link": "!irs.gov/newsroom/education-benefits-that-can-help-taxpayers-save",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Drop-in",
+   "date": "2026-11-17",
+   "title": "Online safety tip: Follow IRS verified social media",
+   "link": "!irs.gov/newsroom/online-safety-tip-follow-irs-verified-social-media",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Drop-in",
+   "date": "2026-11-06",
+   "title": "Eligible children automatically enrolled in Trump Accounts",
+   "link": "!irs.gov/newsroom/eligible-children-automatically-enrolled-in-trump-accounts",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Drop-in",
+   "date": "2026-11-06",
+   "title": "Here’s how to claim Trump Account seed money for your child",
+   "link": "!irs.gov/newsroom/heres-how-to-claim-trump-account-seed-money-for-your-child",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Drop-in",
+   "date": "2026-11-10",
+   "title": "Tax pros: Protect client data with a Written Information Security Plan",
+   "link": "!irs.gov/newsroom/tax-pros-protect-client-data-with-a-written-information-security-plan",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Drop-in",
+   "date": "2026-11-10",
+   "title": "Safety tip for tax pros: Beware of malicious and suspicious requests",
+   "link": "!irs.gov/newsroom/safety-tip-for-tax-pros-beware-of-malicious-and-suspicious-requests",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Drop-in",
+   "date": "2026-11-10",
+   "title": "Seniors: Protect yourself from tax scams",
+   "link": "!irs.gov/newsroom/seniors-protect-yourself-from-tax-scams",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Tax Tip",
+   "date": "2026-10-27",
+   "title": "Preparing for retirement? Know how it can affect taxes",
+   "link": "!irs.gov/newsroom/preparing-for-retirement-know-how-it-can-affect-taxes",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "News Release",
+   "date": "2026-10-27",
+   "title": "IRS announces tax relief for Texans impacted by July storms, various deadlines postponed to Feb. 1, 2027",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-texans-impacted-by-july-storms-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Tax Tip",
+   "date": "2026-10-29",
+   "title": "Trick or treat? Don’t get tricked by tax credit scammers",
+   "link": "!irs.gov/newsroom/trick-or-treat-dont-get-tricked-by-tax-credit-scammers",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "News Release",
+   "date": "2026-10-29",
+   "title": "Frank Bisignano donates to Trump Accounts for children in Brooklyn, NY",
+   "link": "!irs.gov/newsroom/frank-bisignano-donates-to-trump-accounts-for-children-in-brooklyn-ny",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Tax Tip",
+   "date": "2026-11-03",
+   "title": "Purchasing a new vehicle? Car loan interest could be eligible for a tax deduction",
+   "link": "!irs.gov/newsroom/purchasing-a-new-vehicle-car-loan-interest-could-be-eligible-for-a-tax-deduction",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Tax Tip",
+   "date": "2026-11-05",
+   "title": "Loss of a loved one: Steps to manage tax responsibilities",
+   "link": "!irs.gov/newsroom/loss-of-a-loved-one-steps-to-manage-tax-responsibilities",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "News Release",
+   "date": "2026-10-14",
+   "title": "IRS announces tax relief for taxpayers impacted by Hurricane Isaias in Alabama, various deadlines postponed to Feb. 4, 2027",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-hurricane-isaias-in-alabama-various-deadlines-postponed-to-feb-4-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Tax Tip",
+   "date": "2026-10-20",
+   "title": "Security reminders and tools for tax pros",
+   "link": "!irs.gov/newsroom/security-reminders-and-tools-for-tax-pros",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Tax Tip",
+   "date": "2026-10-22",
+   "title": "Saving for retirement? IRAs are an option",
+   "link": "!irs.gov/newsroom/saving-for-retirement-iras-are-an-option",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "News Release",
+   "date": "2026-10-22",
+   "title": "IRS to auction single-family residence in Jacksonville, Florida",
+   "link": "!irs.gov/newsroom/irs-to-auction-single-family-residence-in-jacksonville-florida",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Other",
+   "date": "2026-10-23",
+   "title": "Dyed diesel — Frequently asked questions",
+   "link": "!irs.gov/newsroom/dyed-diesel-frequently-asked-questions",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "News Release",
+   "date": "2026-10-14",
+   "title": "IRS announces tax relief for taxpayers impacted by Super Typhoon Bavi in Guam, various deadlines postponed to Feb. 4, 2027",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-super-typhoon-bavi-in-guam-various-deadlines-postponed-to-feb-4-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "News Release",
+   "date": "2026-10-14",
+   "title": "IRS provides dyed diesel fuel relief related to excise tax following President Trump’s Executive Order",
+   "link": "!irs.gov/newsroom/irs-provides-dyed-diesel-fuel-relief-related-to-excise-tax-following-president-trumps-executive-order",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "News Release",
+   "date": "2026-10-14",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms and flooding in West Virginia, various deadlines postponed to Feb. 4, 2027",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-and-flooding-in-west-virginia-various-deadlines-postponed-to-feb-4-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "News Release",
+   "date": "2026-10-14",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms and flooding in the Pueblo of Zuni in New Mexico, various deadlines postponed to Feb. 4, 2027",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-and-flooding-in-the-pueblo-of-zuni-in-new-mexico-various-deadlines-postponed-to-feb-4-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "News Release",
+   "date": "2026-10-14",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storms, straight-line winds, tornadoes, flooding and landslides in Ohio, various deadlines postponed to Feb. 1, 2027",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storms-straight-line-winds-tornadoes-flooding-and-landslides-in-ohio-various-deadlines-postponed-to-feb-1-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "News Release",
+   "date": "2026-10-14",
+   "title": "IRS announces tax relief for taxpayers impacted by Hurricane Isaias in Florida, various deadlines postponed to Feb. 8, 2027",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-hurricane-isaias-in-florida-various-deadlines-postponed-to-feb-8-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Tax Tip",
+   "date": "2026-10-14",
+   "title": "The deadline to file 2025 taxes is tomorrow",
+   "link": "!irs.gov/newsroom/the-deadline-to-file-2025-taxes-is-tomorrow",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "News Release",
+   "date": "2026-10-14",
+   "title": "IRS announces tax relief for taxpayers impacted by severe storm in Nebraska, various deadlines postponed to Jan. 7, 2027",
+   "link": "!irs.gov/newsroom/irs-announces-tax-relief-for-taxpayers-impacted-by-severe-storm-in-nebraska-various-deadlines-postponed-to-jan-7-2027",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "News Release",
+   "date": "2026-09-25",
+   "title": "IRS launches new mobile app, expanding digital services for taxpayers",
+   "link": "!irs.gov/newsroom/irs-launches-new-mobile-app-expanding-digital-services-for-taxpayers",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Other",
+   "date": "2026-09-25",
+   "title": "IRS2Go to IRS app — Frequently asked questions",
+   "link": "!irs.gov/newsroom/irs2go-to-irs-app-frequently-asked-questions",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "News Release",
+   "date": "2026-09-28",
+   "title": "Treasury, IRS issue proposed regulations on installment payments for tax on certain farmland sales",
+   "link": "!irs.gov/newsroom/treasury-irs-issue-proposed-regulations-on-installment-payments-for-tax-on-certain-farmland-sales",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Tax Tip",
+   "date": "2026-09-29",
+   "title": "New IRS app gives taxpayers a new way to access services",
+   "link": "!irs.gov/newsroom/new-irs-app-gives-taxpayers-a-new-way-to-access-services",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "News Release",
+   "date": "2026-09-30",
+   "title": "IRS announces new relief for eligible taxpayers affected by ongoing events in Israel: due dates for eligible returns and payments may be postponed to Sept. 30, 2027; additional relief may be available",
+   "link": "!irs.gov/newsroom/irs-announces-new-relief-for-eligible-taxpayers-affected-by-ongoing-events-in-israel-due-dates-for-eligible-returns-and-payments-may-be-postponed-to-sept-30-2027-additional-relief-may-be-available",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Tax Tip",
+   "date": "2026-10-01",
+   "title": "Fall has arrived, but the Security Summit summer series information is relevant year round",
+   "link": "!irs.gov/newsroom/fall-has-arrived-but-the-security-summit-summer-series-information-is-relevant-year-round",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  },
+  {
+   "type": "Tax Tip",
+   "date": "2026-10-07",
+   "title": "Taxpayer Bill of Rights series: Defining the right to a fair and just tax system",
+   "link": "!irs.gov/newsroom/taxpayer-bill-of-rights-series-defining-the-right-to-a-fair-and-just-tax-system",
+   "probe": {
+    "host": "irs.gov",
+    "www": 200,
+    "bare": 200,
+    "canonical": "www",
+    "probed": "2026-11-19"
+   }
+  }
+ ],
+ "notes": [
+  "Deduped against data/articles.json (the 25-release seed) by slug.",
+  "The Israel relief release (2026-09-30) sits in this pool — it predates the seed's Oct 1 window, which is why the AI Overview item did not verify against the top 25.",
+  "IR-2026-137 was promoted into data/articles.json on 2026-11-19 after the live current-month page showed it listed."
+ ]
+}

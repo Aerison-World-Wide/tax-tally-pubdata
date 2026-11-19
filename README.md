@@ -23,14 +23,20 @@ read it; only authorized commits may change it.
   2025–2026.
 - `data/social.json` — share-endpoint templates for the tip box
   (X, Facebook, LinkedIn, Email). Edit links here, not in reports.
+- `data/webdata.json` — the bundle reports actually fetch: the
+  slim matrix, tip pools, payment map, and social templates in one
+  file, generated from the Tax Tally source (`python3 report.py
+  webdata.json`). Do not hand-edit; regenerate it whenever any of
+  the data above changes.
 
 ## How reports use this data
 
-Today the data is baked into each generated report at render time —
-a statement is one self-contained file that works offline. Next,
-reports will fetch from this repo at runtime, so a rate correction
-or a new tip lands everywhere without regenerating statements.
-That fetch step is under development.
+Reports fetch `data/webdata.json` from this repo when they load:
+a rate correction or a new tip lands in every outstanding report
+the next time it is opened online, without regenerating statements.
+The same bundle is also baked into each report at render time as
+the fallback, so a statement stays one self-contained file that
+works fully offline.
 
 ## Updating
 
